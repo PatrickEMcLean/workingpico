@@ -99,7 +99,10 @@ select:focus {
 /* Main Styles
 /*---------------------------------------------*/
 body {
-	font: 100%/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;
+	/*font: 100%/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;*/
+	font-family: 100%/1.8em 'Libre Baskerville', serif;
+	line-height: 1.5em;
+	font-size: 150%;
 	color: #444;
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
@@ -128,6 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 
 h1 {
 	font-size: 2em;
+	font-weight: bold;
 }
 
 h2 {
@@ -211,13 +215,12 @@ blockquote {
 	
 	padding: 10px 0;
 	margin-bottom: 0px;
-	color: #afe1da;
+	
 }
-#header a { color: #afe1da; }
+/*#header a { color: #afe1da; }*/
 #header h1 a,
 #header a:hover { color: #fff; }
 #header h1 { 
-	font-weight: bold;
 	margin: 0; 
 	float: left;
 }
