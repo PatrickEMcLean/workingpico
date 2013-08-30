@@ -1,33 +1,42 @@
 
-# 2011
 
-* 23 Jan - [Four things you should do before you get slapped in the face](http://www.patrickemclean.com)
-* 4 Feb.......[Bitch I done told you.](http://www.patrickemclean.com)
-* 15 March....[Things I ate with a spoon.](http://www.patrickemclean.com)
-* 1 April  -  [How to Succeed in Evil](http://www.patrickemclean.com)
+<div style="text-align:center;"><h1>2001</h2></div>
+
+*12/03/12* -- [Four things you should do before you get slapped in the face by a couple of angry midgets wielding rubber chickens painted blue](http://www.patrickemclean.com)
+
+*01/14/13* -- [Bitch I done told you.](http://www.patrickemclean.com)
+
+*02/23/13* -- [Things I ate with a spoon.](http://www.patrickemclean.com)
+
+*03/07/13* -- [Twelve ways to prepare goat.](http://www.patrickemclean.com)
+
+*04/15/13* -- [Seven things they should have told you about.](http://www.patrickemclean.com)
+
+*05/27/13* -- [Look out behind you!](http://www.patrickemclean.com)
+
+<div style="float:right">
+<img src="http://ecx.images-amazon.com/images/I/51BUSsP9cbL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-60,22_AA300_SH20_OU01_.jpg">
+</div>
+
+### [How to Succeed in Evil: Hostile Takeover]()
+
+<p class="booktext">Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.</p>
+
+    
+<p class="booktext">Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.</p>
 
 
-
-<table>
-    <tr>
-        <td><img src="http://ecx.images-amazon.com/images/I/51BUSsP9cbL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-60,22_AA300_SH20_OU01_.jpg"></td>
-        <td><br><br><br>Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.</td>
-        
-        
-    </tr>
-   
-</table>
-<br>
-
-* 4 Feb [Bitch I done told you.](http://www.patrickemclean.com)
-* 15 March [Things I ate with a spoon.](http://www.patrickemclean.com)
-* 1 April [How to Succeed in Evil](http://www.patrickemclean.com)
-
+* [Twelve ways to prepare goat.](http://www.patrickemclean.com)
+* [Seven things they should have told you about.](http://www.patrickemclean.com)
+* [Look out behind you!](http://www.patrickemclean.com)
+* [This]()
+* [THAT]()
+* [THE OTHER THING]()
 
 
 ---
 
-# 2010
+## 2010
 
 * 23 Jan [Four things you should do before you get slapped in the face](http://www.patrickemclean.com)
 * 4 Feb [Bitch I done told you.](http://www.patrickemclean.com)
@@ -111,3 +120,5 @@ bookbub?
 Ping Guy Kawasaki -- with ebook and interview request
 
 http://www.antonyjohnston.com/articles/ << follow this guy
+
+</div>

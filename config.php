@@ -23,6 +23,6 @@ $config['custom_setting'] = 'Hello'; 	// Can be accessed by {{ config.custom_set
 */
 
 $config['theme'] = 'simpledoc'; 
-
+$config['site_title'] = 'PATRICK E. McLEAN';	
 
 ?>

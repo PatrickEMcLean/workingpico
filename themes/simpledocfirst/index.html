@@ -13,8 +13,7 @@
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
 	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
 	
-	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
-
+	<link href='http://fonts.googleapis.com/css?family=Vollkorn:400italic,400,700' rel='stylesheet' type='text/css'>
 
 	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
 </head>
@@ -23,18 +22,18 @@
 
 	<header id="header">
 		<div class="inner clearfix">
-			<div class="headertype">
-				THE OFFICIAL-LOOKING WEBSITE OF AUTHOR
-			</div>
+			<ul class="nav">
+				
+				<li><a href="{{ site_url }}/workingpico/about">about</a></li>
+				<li> | </li>
+				<li><a href="{{ site_url }}/workingpico/books">books</a></li>
+				<li> | </li>
+				<li><a href="{{ site_url }}/workingpico/speaking">speaking/teaching</a></li>
+			</ul>
 			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
 			
 		</div>
-			<div class="headertype">
-				PRESENTING YOU WITH MANY PAGES INCLUDING:<BR>
-
-				<a href="{{ base_url }}">ABOUT, </a><a href="{{ base_url }}">BOOKS</a>, and <a href="{{ base_url }}">SPEAKING/TEACHING</a>  
-			</div>
-
+			<hr class="inner clearfix">
 	</header>
 
 	<section id="content">

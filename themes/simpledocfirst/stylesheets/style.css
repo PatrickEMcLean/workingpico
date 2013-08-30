@@ -101,9 +101,9 @@ select:focus {
 /* Main Styles
 /*---------------------------------------------*/
 body {
-
-	font-family: 100%/1.8em 'Old Standard TT', serif;
-	line-height: 2em;
+	/*font: 100%/1.8em 'Open Sans', Helvetica, Arial, Helvetica, sans-serif;*/
+	font-family: 100%/1.8em 'Vollkorn', serif;
+	line-height: 1.7em;
 	font-size: 120%;
 	color: black;
 	background: #fff;
@@ -129,38 +129,31 @@ h1, h2, h3, h4, h5, h6 {
 	color: #000;
 	line-height: 1.2em;
 	margin-bottom: 0.6em;
-	font-family: 100%/1.8em 'Old Standard TT', serif;
-	
+	font-family: 100%/1.8em 'Vollkorn', serif;
 }
 
 h1 {
-	font-size: 2.2em;
+	font-size: 3em;
 
 }
 
 h2 {
-	font-size: 1.5em;
-	
+	font-size: 2em;
 }
 
 h3 {
 	font-size: 1em;
 	margin-top: .5em;
-	margin-bottom: 2em;
-	margin-left: 1em;
-	margin-right: 1em;
 
-	text-align: center;
-	font-style: italic;
-
+	line-height: .5em;
 	
 }
 
 p {
 	margin-bottom: 1em;
+	font-size: .75em;
 	margin-top: 1em;
 	line-height: 1.4em;
-	font-size: 1.3em;
 
 
 }
@@ -227,51 +220,31 @@ blockquote {
 	border-left: 5px solid #dddddd;
 }
 
-.left { float: left;
-		position:absolute;
-		left:40px;
-		text-align:right;
-
-}
-
-.right { float: right;}
-
-.aside{
-	clear:both;
-	font-style: italic;
-	font-size: 60%;
-	max-width: 100px;
-	line-height: 1.5em;
-	z-index:20;
-	
-
-}
-
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-	width: 700px;
+	width: 850px;
 	margin: 0 auto;
 
 }
 
 #header {
-	text-align: center;
+	
 	padding: 10px 0;
-	margin-bottom: 3em;
-	margin-top:3em;
-	font-size: 60%;
+	margin-bottom: 0px;
+	margin-top:10;
+	font-size: 100%;
 	color: black;
-	line-height: 1.2em;
+	line-height: 1em;
 
 	
 }
 #header a { color: black; }
-#header a:hover { color: red; }
+#header a:hover { color: gray; }
 #header h1 { 
-	margin-top: .10em;
-	margin-bottom: .20em;
-	font-size: 330%;
+	margin-bottom: .5em;
+	float: left;
+	font-size: 150%;
 }
 #header .nav {
 	
@@ -281,23 +254,8 @@ blockquote {
 }
 #header .nav li { display: inline-block; }
 #header .nav a {
+
 	
-}
-
-#header .headertype {
-	line-height: 1.3em;
-	font-size: 110%
-
-}
-
-#header .headertype a {
-
-	 color: red; 
-}
-
-#header .headertype a:hover {
-
-	 color: grey; 
 }
 
 #footer {
