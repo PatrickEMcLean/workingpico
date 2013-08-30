@@ -2,28 +2,20 @@
 
 <div style="text-align:center;"><h1>2001</h2></div>
 
-*12/03/12* -- [Four things you should do before you get slapped in the face by a couple of angry midgets wielding rubber chickens painted blue](http://www.patrickemclean.com)
+* *12/03/12* -- [Four things you should do before you get slapped in the face by a couple of angry midgets wielding rubber chickens painted blue](http://www.patrickemclean.com)
+* *01/14/13* -- [Bitch I done told you.](http://www.patrickemclean.com)
+* *02/23/13* -- [Things I ate with a spoon.](http://www.patrickemclean.com)
+* *03/07/13* -- [Twelve ways to prepare goat.](http://www.patrickemclean.com)
+* *04/15/13* -- [Seven things they should have told you about.](http://www.patrickemclean.com)
 
-*01/14/13* -- [Bitch I done told you.](http://www.patrickemclean.com)
-
-*02/23/13* -- [Things I ate with a spoon.](http://www.patrickemclean.com)
-
-*03/07/13* -- [Twelve ways to prepare goat.](http://www.patrickemclean.com)
-
-*04/15/13* -- [Seven things they should have told you about.](http://www.patrickemclean.com)
-
-*05/27/13* -- [Look out behind you!](http://www.patrickemclean.com)
-
-<div style="float:right">
+<div style="float:left; position:relative; left:-300px; margin-right:-300px;">
 <img src="http://ecx.images-amazon.com/images/I/51BUSsP9cbL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-60,22_AA300_SH20_OU01_.jpg">
 </div>
 
-### [How to Succeed in Evil: Hostile Takeover]()
 
-<p class="booktext">Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.</p>
+Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.
 
-    
-<p class="booktext">Released April 1, the sequel to How to Succeed in Evil is a great way to part you from a couple of bucks. Buy it. You'll love it.</p>
+
 
 
 * [Twelve ways to prepare goat.](http://www.patrickemclean.com)

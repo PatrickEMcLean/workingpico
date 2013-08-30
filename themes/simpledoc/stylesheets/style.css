@@ -74,7 +74,9 @@ button {
 
 /* Sharper Thumbnails */
 img {
+	display:block;
 	-ms-interpolation-mode: bicubic;
+	margin:auto;
 }
 
 /* Input Styles
@@ -228,18 +230,27 @@ blockquote {
 }
 
 .left { float: left;
-		position:absolute;
-		left:40px;
+		position:relative;
+		margin-right:-100px;
+		right:140px;
+		top:+5px;
 		text-align:right;
 
 }
 
-.right { float: right;}
+.right { float: right;
+		 position:relative;
+		 margin-left:-100px;
+		 left:140px;
+		 top:+5px;
+		 text-align:left;
+
+}
 
 .aside{
 	clear:both;
 	font-style: italic;
-	font-size: 60%;
+	font-size: 70%;
 	max-width: 100px;
 	line-height: 1.5em;
 	z-index:20;
