@@ -4,6 +4,8 @@
 /* http: //dev7studios.com
 /*=================================*/
 
+
+
 /* Reset Styles
 /*---------------------------------------------*/
 html, body, div, span, applet, object, iframe,
@@ -104,7 +106,7 @@ select:focus {
 /*---------------------------------------------*/
 body {
 
-	font-family: 100%/1.8em 'Old Standard TT', serif;
+	font-family: 'Libre Baskerville', serif;
 	line-height: 2em;
 	font-size: 120%;
 	color: black;
@@ -113,7 +115,7 @@ body {
 }
 
 a, a:visited {
-	color: #2EAE9B;
+	color: red;
 	text-decoration: none;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
@@ -123,7 +125,7 @@ a, a:visited {
 }
 
 a:hover, a:active {
-	color: #000;
+	color: grey;
 	text-decoration: none;
 }
 
@@ -131,7 +133,8 @@ h1, h2, h3, h4, h5, h6 {
 	color: #000;
 	line-height: 1.2em;
 	margin-bottom: 0.6em;
-	font-family: 100%/1.8em 'Old Standard TT', serif;
+	font-family: 'Libre Baskerville', serif;
+	text-align: center;
 	
 }
 
@@ -141,14 +144,15 @@ h1 {
 }
 
 h2 {
+	
 	font-size: 1.5em;
 	
 }
 
 h3 {
-	font-size: 1em;
-	margin-top: .5em;
-	margin-bottom: 2em;
+	font-size: 1.5em;
+	margin-top: 1.5em;
+	margin-bottom: .5em;
 	margin-left: 1em;
 	margin-right: 1em;
 
@@ -163,6 +167,7 @@ p {
 	margin-top: 1em;
 	line-height: 1.4em;
 	font-size: 1.3em;
+	text-align: justify;
 
 
 }
@@ -231,37 +236,42 @@ blockquote {
 
 .left { float: left;
 		position:relative;
-		margin-right:-100px;
-		right:140px;
-		top:+5px;
-		text-align:right;
-
+		margin-right: 20px;
+		padding-right: 10px;
+		padding-bottom: 10px;
+		padding-top:10px;
+		text-align:left;
+		border-right: dotted;
+		border-width: 1px;
+		border-color:light-grey;
 }
 
 .right { float: right;
 		 position:relative;
-		 margin-left:-100px;
-		 left:140px;
-		 top:+5px;
-		 text-align:left;
+		 margin-left: 20px;
+		padding-left: 10px;
+		padding-bottom: 10px;
+		padding-top:10px
+		 text-align:right;
+		 border-left: dotted;
+		 border-width: 1px;
+		
 
 }
 
 .aside{
 	clear:both;
 	font-style: italic;
-	font-size: 70%;
-	max-width: 100px;
+	font-size: 80%;
+	max-width: 150px;
 	line-height: 1.5em;
 	z-index:20;
-	
-
 }
 
 /* Structure Styles
 /*---------------------------------------------*/
 .inner {
-	width: 700px;
+	max-width: 700px;
 	margin: 0 auto;
 
 }
@@ -282,7 +292,7 @@ blockquote {
 #header h1 { 
 	margin-top: .10em;
 	margin-bottom: .20em;
-	font-size: 330%;
+	font-size: 3em;
 }
 #header .nav {
 	
@@ -312,13 +322,13 @@ blockquote {
 }
 
 #footer {
-	background: #707070;
-	padding: 60px 0;		
-	margin-top: 80px;
-	color: #C0C0C0;
+	/*background: #707070;*/
+	padding: 30px 0;		
+	/*margin-top: 80px;*/
+	color: grey;
 }
-#footer a { color: #ddd; }
-#footer a:hover { color: #fff; }
+#footer a { color: red; }
+#footer a:hover { color: grey; }
 
 
 
@@ -337,5 +347,47 @@ blockquote {
     *zoom: 1;
 }
 
+@media all and (max-width: 1024px) {
+	
+	.inner { width:92%;
+		     margin: 0 auto;
+		 }
 
+
+    .left { float: left;
+		
+		text-align:right;
+
+			}
+
+	.right { float: right;
+		
+		 text-align:left;
+
+			}
+
+
+}
+
+@media all and (max-width: 640px) {
+
+	body{ font-size:75%;}
+
+	.inner { width:92%;
+		     margin: 0 auto;
+		}
+	img {
+			max-width: 100%;
+			height: auto;
+		}
+
+		.aside{
+		clear:both;
+		font-style: italic;
+		font-size: 100%;
+		max-width: 75px;
+		line-height: 1.5em;
+		z-index:20;
+
+}
 

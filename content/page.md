@@ -8,6 +8,8 @@ Date: 2/23/72
 
 Congratulations you have successfully installed [Pico](http://pico.dev7studios.com). Pico is a stupidly simple, blazing fast, flat file CMS.
 
+## This is a test
+
 ### Creating Content
 
 Pico is a flat file CMS, this means there is no administration backend and database to deal with. You simply create `.md` files in the "content"

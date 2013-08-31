@@ -2,6 +2,7 @@
 <html lang="en" class="no-js">
 <head>
 	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
 	
 	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
 {% if meta.description %}
@@ -10,10 +11,12 @@
 	<meta name="robots" content="{{ meta.robots }}">
 {% endif %}
 	
-	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Open+Sans:400,700" type="text/css" />
-	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
 	
-	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
+
+	<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+	
+	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
 
 
 	<script src="{{ theme_url }}/scripts/modernizr-2.6.1.min.js"></script>
@@ -27,13 +30,14 @@
 				THE OFFICIAL-LOOKING WEBSITE OF AUTHOR
 			</div>
 			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
-			
-		</div>
+
 			<div class="headertype">
 				PRESENTING YOU WITH MANY PAGES INCLUDING:<BR>
 
 				<a href="{{ base_url }}">ABOUT, </a><a href="{{ base_url }}">BOOKS</a>, and <a href="{{ base_url }}">SPEAKING/TEACHING</a>  
 			</div>
+		</div>
+			
 
 	</header>
 
@@ -46,6 +50,7 @@
 	
 	<footer id="footer">
 		<div class="inner">
+			<hr>
 			<a href="http://pico.dev7studios.com">Pico</a> was made by <a href="http://gilbert.pellegrom.me">Gilbert Pellegrom</a> 
 			from <a href="http://dev7studios.com">Dev7studios</a>.
 		</div>

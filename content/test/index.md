@@ -1,15 +1,15 @@
 
 
-<div style="text-align:center;"><h1>2001</h2></div>
 
-* *12/03/12* -- [Four things you should do before you get slapped in the face by a couple of angry midgets wielding rubber chickens painted blue](http://www.patrickemclean.com)
-* *01/14/13* -- [Bitch I done told you.](http://www.patrickemclean.com)
-* *02/23/13* -- [Things I ate with a spoon.](http://www.patrickemclean.com)
+
+* **Dec 5** &nbsp; &nbsp;  [The Poetry of Stairs: Thoughts on the Silo Saga](http://www.patrickemclean.com)
+* **Dec 25** &nbsp; [Bitch I done told you.](http://www.patrickemclean.com)
+* **Jan 22** &nbsp; [Things I ate with a spoon.](http://www.patrickemclean.com)
 * *03/07/13* -- [Twelve ways to prepare goat.](http://www.patrickemclean.com)
 * *04/15/13* -- [Seven things they should have told you about.](http://www.patrickemclean.com)
 
-<div style="float:left; position:relative; left:-300px; margin-right:-300px;">
-<img src="http://ecx.images-amazon.com/images/I/51BUSsP9cbL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-60,22_AA300_SH20_OU01_.jpg">
+<div class="aside left clear">
+<img src="http://ecx.images-amazon.com/images/I/51BUSsP9cbL._BO2,204,203,200_PIsitb-sticker-arrow-click,TopRight,35,-76_AA278_PIkin4,BottomRight,-60,22_AA300_SH20_OU01_.jpg" style="width:125px; height:150px;">
 </div>
 
 
@@ -28,7 +28,7 @@ Released April 1, the sequel to How to Succeed in Evil is a great way to part yo
 
 ---
 
-## 2010
+<div style="text-align:center;"><h1>2010</h2></div>
 
 * 23 Jan [Four things you should do before you get slapped in the face](http://www.patrickemclean.com)
 * 4 Feb [Bitch I done told you.](http://www.patrickemclean.com)
@@ -50,7 +50,7 @@ Query agents/publishers about 'Evil
 
 Talk to Matt, Fargo, Nate, Colin about writing an anthology of short stories for WL2 called the Anecdotes from the End of the World.
 
-Set up social media plan.  
+Set up social media plan. 
 
     Make a very long list of quotes that are tweetable from your work and from elsewhere. Set them up to auto-tweet on a schedule that will repeat or text file can be amended and/or updated to supply a continuous stream of content. 
 
