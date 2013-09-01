@@ -7,7 +7,9 @@
 	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
 {% if meta.description %}
 	<meta name="description" content="{{ meta.description }}"> 
-{% endif %}{% if meta.robots %}
+{% endif %}
+
+{% if meta.robots %}
 	<meta name="robots" content="{{ meta.robots }}">
 {% endif %}
 	
@@ -34,7 +36,7 @@
 			<div class="headertype">
 				PRESENTING YOU WITH MANY PAGES INCLUDING:<BR>
 
-				<a href="{{ base_url }}">ABOUT, </a><a href="{{ base_url }}">BOOKS</a>, and <a href="{{ base_url }}">SPEAKING/TEACHING</a>  
+				<a href="{{ base_url }}/about">ABOUT, </a><a href="{{ base_url }}/books">BOOKS</a>, and <a href="{{ base_url }}/speaking">SPEAKING/TEACHING</a>  
 			</div>
 		</div>
 			
@@ -43,7 +45,35 @@
 
 	<section id="content">
 
-		<div class="inner">
+
+			<div class="inner">
+
+<!--   {% if is_front_page %}
+	{% for page in pages %}
+		{% if page.date %} 
+		<div class="post">
+		<ul>
+			<li>{{ page.date }} &nbsp; &nbsp;<a href="{{ page.url }}">{{ page.title }}</a></li>
+		</ul>	
+		</div>
+		{% endif %}
+	{% endfor %}
+	
+ {% endif %}
+
+ -->
+
+	
+
+			{% if meta.title %}
+				<h1>{{ meta.title }}</h1>
+			{% endif %}
+
+		{% if meta.excerpt %}
+				<h1>{{ meta.excerpt }}</h1>
+		{% endif %}
+
+
 			{{ content }}
 		</div>
 	</section>

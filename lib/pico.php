@@ -186,10 +186,10 @@ class Pico {
 			'site_title' => 'Pico',
 			'base_url' => $this->base_url(),
 			'theme' => 'default',
-			'date_format' => 'jS M Y',
+			'date_format' => 'm d y',
 			'twig_config' => array('cache' => false, 'autoescape' => false, 'debug' => false),
-			'pages_order_by' => 'alpha',
-			'pages_order' => 'asc',
+			'pages_order_by' => 'date',
+			'pages_order' => 'desc',
 			'excerpt_length' => 50
 		);
 

@@ -79,6 +79,7 @@ img {
 	display:block;
 	-ms-interpolation-mode: bicubic;
 	margin:auto;
+	width:100%;
 }
 
 /* Input Styles
@@ -176,7 +177,15 @@ p.booktext {
 	margin-left: 2em;
 }
 
-ol, ul {
+
+ol {
+	margin-bottom: .5em;
+	padding-left: 30px;
+
+}
+
+
+ul {
 	/*padding-left: 30px;*/
 	margin-bottom: .5em;
 	list-style-type:none;
@@ -234,27 +243,50 @@ blockquote {
 	border-left: 5px solid #dddddd;
 }
 
+.year  {
+		
+	font-size: 1.1em;
+	margin-top: 1.5em;
+	margin-bottom: .5em;
+	margin-left: 1em;
+	margin-right: 1em;
+	color:black;
+	text-align: center;
+	font-style: italic;
+
+	
+
+}
+
+.footnotes{
+	font-size: 70%;
+
+}
+
+.footnotes hr {
+	
+}
+
+
 .left { float: left;
 		position:relative;
-		margin-right: 20px;
-		padding-right: 10px;
-		padding-bottom: 10px;
-		padding-top:10px;
+		margin-right: 2%;
+		padding-right: 2%;
+		padding-bottom: 1%;
+		
 		text-align:left;
-		border-right: dotted;
-		border-width: 1px;
-		border-color:light-grey;
+	
+	
 }
 
 .right { float: right;
 		 position:relative;
-		 margin-left: 20px;
-		padding-left: 10px;
-		padding-bottom: 10px;
-		padding-top:10px
+		 margin-left: 2%;
+		padding-left: 2%;
+		padding-bottom: 1%;
+		
 		 text-align:right;
-		 border-left: dotted;
-		 border-width: 1px;
+
 		
 
 }
@@ -265,8 +297,13 @@ blockquote {
 	font-size: 80%;
 	max-width: 150px;
 	line-height: 1.5em;
-	z-index:20;
+	
 }
+
+.big{
+	max-width: 200px;
+}
+
 
 /* Structure Styles
 /*---------------------------------------------*/
@@ -376,12 +413,13 @@ blockquote {
 	.inner { width:92%;
 		     margin: 0 auto;
 		}
+
 	img {
 			max-width: 100%;
 			height: auto;
 		}
 
-		.aside{
+	.aside{
 		clear:both;
 		font-style: italic;
 		font-size: 100%;

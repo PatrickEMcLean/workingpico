@@ -1,7 +1,6 @@
 /*
 Title: Page
 Description: A page of paglitude
-Date: 2/23/72
 */
 
 # Welcome to Pico
