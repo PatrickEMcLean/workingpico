@@ -134,7 +134,8 @@ class Pico {
 		$content = str_replace('%base_url%', $this->base_url(), $content);
 		$content = Markdown($content);
 		if (function_exists('SmartyPants'))  $content = SmartyPants($content);
-
+		// use \Michelf\MarkdownExtra;
+		// $content = MarkdownExtra::defaultTransform($content);
 		return $content;
 	}
 
