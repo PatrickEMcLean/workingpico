@@ -2,8 +2,11 @@
 
 Date: 09/7/2006
 Title: My Best Writing Hack
+Author: Patrick
 
 */
+
+# My Best Writing Hack
 
 I'm a professional writer. My words pay for my bread, my beer and everything else I consume. Last year, not counting re-writes or emails, I generated 400 pages. That's a novel worth of writing. Except that I don't write novels.
 

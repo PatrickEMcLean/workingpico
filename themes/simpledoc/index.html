@@ -46,40 +46,14 @@
 	<section id="content">
 
 
-			<div class="inner">
-
-<!--   {% if is_front_page %}
-	{% for page in pages %}
-		{% if page.date %} 
-		<div class="post">
-		<ul>
-			<li>{{ page.date }} &nbsp; &nbsp;<a href="{{ page.url }}">{{ page.title }}</a></li>
-		</ul>	
-		</div>
-		{% endif %}
-	{% endfor %}
+			<div class="inner clearfix">
 	
- {% endif %}
-
- -->
-
-	
-
-			{% if meta.title %}
-				<h1>{{ meta.title }}</h1>
-			{% endif %}
-
-		{% if meta.excerpt %}
-				<h1>{{ meta.excerpt }}</h1>
-		{% endif %}
-
-
 			{{ content }}
 		</div>
 	</section>
 	
 	<footer id="footer">
-		<div class="inner">
+		<div class="inner clearfix">
 			<hr>
 
 

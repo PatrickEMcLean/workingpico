@@ -4,8 +4,22 @@ author: Patrick
 date: 2012-05-28 16:07:40+00:00
 */
 
+### How to Succeed in Evil
 
+* [How to Succeed in Evil](#evil)
+* [Hostile Takeover](#hostile)
+* [Consultation with a Vampire](#vampire)
+
+### Others
+
+* [Unkillable](#unkillable)
+* [Stories I Told Myself](#stories)
+<br> <br>
+<hr>
+
+<a id="evil"></a>
 ### [How to Succeed in Evil](http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM) 
+
 
 
 <div class="aside right clear">
@@ -31,7 +45,7 @@ Inevitably, Edwin’s unique clientele lead him into direct conflict with the gr
 
 <hr>
 
-
+<a id="hostile"></a>
 ### [Hostile Takeover](http://www.amazon.com/Hostile-Takeover-Succeed-Evil-ebook/dp/B008FK93J6) 
 
 
@@ -55,7 +69,7 @@ If you’ve ever had a job you hated. If you’ve ever secretly rooted for Lex L
 
 <hr>
 
-
+<a id="vampire"></a>
 ### [Consultation With A Vampire](http://www.amazon.com/Consultation-Vampire-Succeed-Evil-ebook/dp/B006XY68Y4)
 
 <div class="aside right clear">
@@ -84,7 +98,7 @@ _Novella._
 
 
 
-
+<a id="unkillable"></a>
 ### [Unkillable](http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW)
 
 <div class="aside right clear">
@@ -112,8 +126,8 @@ _Novella._
 
 
 
-
-### Stories I Told Myself
+<a id="stories"></a>
+### [Stories I Told Myself](http://www.amazon.com/Stories-I-Told-Myself-ebook/dp/B0048EKJWI)
 
 
 <div class="aside right clear">

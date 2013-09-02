@@ -1,6 +1,7 @@
 /*
 Author: Patrick
-
+Title: A Defense of Writing Longhand
+Date: 01/22/09
 
 */
 
