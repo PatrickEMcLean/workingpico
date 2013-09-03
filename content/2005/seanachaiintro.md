@@ -53,7 +53,7 @@ _Sometimes, you just gotta blow the bugs out of the engine. _
 
 ## THE REST
 
-[All of the episodes can be found here](http://www.theseanachai.com/category/episodes/)
+[All of the episodes can be found here](http://www.theseanachai.com/archives)
 
 [In this RSS feed](http://www.theseanachai.com/feed)
 
