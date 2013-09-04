@@ -4,7 +4,7 @@ Date: 08/15/2012
 Title: Writing for Wasteland 2 
 */
 
-[caption id="attachment_3847" align="aligncenter" width="500" caption="Wasteland 2 work-in-progress"][![](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)[/caption]
+[![](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)
 
 
 # Writing for Wasteland 2
