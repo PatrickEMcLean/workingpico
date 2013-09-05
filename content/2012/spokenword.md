@@ -1,13 +1,17 @@
 /*
 Author: Patrick
-Date: 07/12/2013-07-12 19:31:32+00:00
+Date: 07/12/13
 Title
 */
 
 
 # Short Form Spoken Word
 
-Emerson said, "All life is experiment. The more experiment the better."
+To get back in the habit of recording and editing, I wrote and recorded some very short form spoken word pieces. Emerson said, 
+
+> All life is experiment. The more experiment the better.
+
+I thought they might transmit a bit better through the noisy channels of social media, but I was wrong. They're not bad, but see what you think of my experiments
 
 
 <iframe width="100%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Fplaylists%2F6014590%3Fsecret_token%3Ds-Uc9Wc"></iframe>

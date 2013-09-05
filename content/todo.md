@@ -7,8 +7,9 @@ Excerpt: THis is some description, including a link. to an image. <img src="http
 
 * []top menu links
 * [x] add disqus comments 
-* [] consider search? 
+* [x] consider search? 
 * [] migrate old pages
+* [] add contact link to bottom of page
 * [] Add getting shot, essays from the Seanachai. 
 * [] Consider other podcasts and essays from the Seanachai and HtSiE
 * [x] Add interviews with John Mierau, PG Holyfield,
@@ -16,7 +17,7 @@ Excerpt: THis is some description, including a link. to an image. <img src="http
 * [] Rygar story post?
 * [] add gw(ro) content and ebooks. (exercise as separate post)
 * [] 2007 -- The Lost Year Explanation
-
+* [] iftt for cross posting to twitter, FB?, g+
 
 
 Add this to the redesign post -- about hating the internet

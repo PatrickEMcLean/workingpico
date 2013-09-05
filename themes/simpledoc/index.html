@@ -37,6 +37,7 @@
 
 				<a href="{{ base_url }}/about">ABOUT, </a><a href="{{ base_url }}/books">BOOKS</a>, and <a href="{{ base_url }}/speaking">SPEAKING/TEACHING</a>  
 			</div>
+
 		</div>
 			
 
@@ -53,8 +54,31 @@
 	
 	<footer id="footer">
 		<div class="inner clearfix">
-			<hr>
+
+
+
 {% if is_front_page %}
+
+<div class="searchblob">
+
+
+<script>
+  (function() {
+    var cx = '000518898980765515244:8nss_auknps';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+
+</div>
 
 {% else %}
 	<div id="disqus_thread"></div>

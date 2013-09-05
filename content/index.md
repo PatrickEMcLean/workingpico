@@ -4,6 +4,16 @@
 <table class="contents">
 
 	<tr>
+		<td class="date">Jul 14</td> <td><a href="http://podiobooks.com/title/how-to-succeed-in-evil-consultation-with-vampire/">Free Audiobook: Consultation with a Vampire</a></td>
+	</tr>
+
+
+	<tr>
+		<td class="date">Jun 12</td> <td><a href="./2013/spokenword">Short Form Spoken Word</a></td>
+	</tr>
+
+
+	<tr>
 		<td class="date">Mar 29</td> <td><a href="./2013/funinterview">The Most Fun Interview I've Ever Done</a></td>
 	</tr>
 

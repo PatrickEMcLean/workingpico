@@ -110,7 +110,7 @@ body {
 	font-family: 'Libre Baskerville', serif;
 
 	font-size: 110%;
-	line-height: 2
+	line-height: 2;
 	color: black;
 	background: #fff;
 	-webkit-font-smoothing: antialiased;
@@ -329,6 +329,21 @@ blockquote {
 }
 
 
+.searchblob {
+		width: 500px;
+	margin: 0 auto;
+	padding-bottom: 1em;
+
+
+
+}
+
+
+.gsc-search-button {
+	padding-top: 16px;
+}
+
+
 
 /* Table of Contents Style
 /*---------------------------------------------*/
@@ -497,9 +512,12 @@ blockquote {
 		.book{
 			padding-top: .5em;
 			padding-right: 1.7em;
-			width: 7em;
-			
+			width: 7em;		
 	
+       }
+
+.searchblob {
+	width:250px;
 }
 
 	ul {
