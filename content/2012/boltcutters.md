@@ -6,7 +6,11 @@ Title: The Skeleton Key of The Zombie Apocalypse
 
 # The Skeleton Key of The Zombie Apocalypse
 
-[![](http://www.patrickemclean.com/wp-content/uploads/2012/05/unnamed.jpeg)](http://www.patrickemclean.com/wp-content/uploads/2012/05/unnamed.jpeg)
+<div class="big center">
+
+	<img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unnamed.jpeg">
+
+</div>
 
 The Zombie meme has so penetrated our culture that that you can walk up to a perfect stranger and have a conversation about the Zombie Apocalypse as easily as a traveling salesman of the 1950’s could have talked about baseball.
 

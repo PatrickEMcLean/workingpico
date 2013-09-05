@@ -3,7 +3,7 @@ Author: Patrick
 Title: Speaking/Teaching
 */
 
-<div class="searchblob">
+<div class="big center">
 
 <img src="http://www.patrickemclean.com/images/ignite.png">
 
