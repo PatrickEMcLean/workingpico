@@ -18,6 +18,8 @@ Excerpt: THis is some description, including a link. to an image. <img src="http
 * [] add gw(ro) content and ebooks. (exercise as separate post)
 * [] 2007 -- The Lost Year Explanation
 * [] iftt for cross posting to twitter, FB?, g+
+* Add Death of Dishwasher
+* Add Parsec Awards notice 
 
 
 Add this to the redesign post -- about hating the internet
