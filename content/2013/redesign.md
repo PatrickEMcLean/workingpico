@@ -10,7 +10,7 @@ I started to call this post, "Website Redesign" but that title is far to innocuo
 
 ## Constructively Dissatisfied
 
-To paraphrase H.L. Mencken, "Every decent person is ashamed of the web they browse." Sure, the internet an incredible medium, but most of the bandwidth is devoted to porn, theft and animated gifs of some teenage boy nutshotting himself on a rusty railing to cruel laugher of camera-holding hyenas.
+To paraphrase H.L. Mencken, "Every decent person is ashamed of the web they browse." Sure, the internet is an incredible medium, but most of the bandwidth is devoted to porn, theft and animated gifs of some teenage boy nutshotting himself on a rusty railing to cruel laugher of camera-holding hyenas.
 
 Twitter can be used for amazing things. But mostly it's a running tally of what people had for lunch. Don't even get me started on Instagram and Facebook.
 

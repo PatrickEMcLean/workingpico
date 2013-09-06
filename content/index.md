@@ -5,6 +5,23 @@
 
 	<tr>
 		<td class="date">Jul 14</td> <td><a href="http://podiobooks.com/title/how-to-succeed-in-evil-consultation-with-vampire/">Free Audiobook: Consultation with a Vampire</a></td>
+		<tr>
+			<td></td>
+			<td>
+		
+
+			<audio controls>
+			<source src="http://www.patrickemclean.com/wp-content/uploads/2013/07/PB-HTSIEVampire-01.mp3" type="audio/mpeg">
+			</audio>
+			</td>
+		</tr>
+
+	</tr>
+
+<!-- http://www.patrickemclean.com/wp-content/uploads/2013/07/PB-HTSIEVampire-01.mp3 -->
+
+	<tr>
+		<td class="date">Jun 22</td> <td><a href="./2013/writingexercise"><strong>good words</strong> (right order) online exercise</a></td>
 	</tr>
 
 

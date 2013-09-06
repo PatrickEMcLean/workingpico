@@ -49,11 +49,14 @@
 			<div class="headertype">
 				PRESENTING YOU WITH MANY PAGES INCLUDING:<BR>
 
-				<a href="{{ base_url }}/about">ABOUT, </a><a href="{{ base_url }}/books">BOOKS</a>, and <a href="{{ base_url }}/speaking">SPEAKING/TEACHING</a>  
+				<a href="{{ base_url }}/about">ABOUT, <a href="{{ base_url }}/contact">CONTACT, </a><a href="{{ base_url }}/books">BOOKS</a>, and <a href="{{ base_url }}/speaking">SPEAKING/TEACHING</a>  
 			</div>
 
 		</div>
-			
+	
+
+<!--End mc_embed_signup-->
+
 
 	</header>
 
@@ -72,6 +75,10 @@
 
 
 {% if is_front_page %}
+
+	<hr>
+
+	<div class="subscribe">If you've made it this far, why not <a href="#">subscribe?</a></div> <br>
 
 <div class="searchblob">
 
@@ -92,9 +99,14 @@
 
 
 
+
 </div>
 
 {% else %}
+
+<hr>
+<div class="subscribe">If you've made it this far, why not <a href="{{ base_url }}/subscribe">subscribe?</a></div> <br>
+
 	<div id="disqus_thread"></div>
     <script type="text/javascript">
         /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
