@@ -6,6 +6,10 @@ Title: Towards a New Philosophy of Web Publishing
 
 # Towards a New Philosophy of Web Publishing
 
+How I have come to hate The Web but love my new website 
+
+I realized I didn't just hate my website I hated the Web. 
+
 I started to call this post, "Website Redesign" but that title is far to innocuous for what I'm up to. Sure, I've retooled the website, but I've also retooled the way I *work* and the way I think about *the web*. And with the web, my thoughts are pretty simple. I've come to hate it. 
 
 ## Constructively Dissatisfied
