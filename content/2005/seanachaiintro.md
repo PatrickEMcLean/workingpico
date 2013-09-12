@@ -1,7 +1,7 @@
 /*
 Title: The Seanachai Podcast
 Author: Patrick
-Date: 01/01/05
+Date: 2005-01-01
 */
 
 # The Seanachai Podcast

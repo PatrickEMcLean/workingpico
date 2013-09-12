@@ -1,6 +1,6 @@
 /*
 author: Patrick
-date: 05/24/11 
+date: 2011-05-24
 Title: The World's Most Dangerous About the Author Blurb
 
 */

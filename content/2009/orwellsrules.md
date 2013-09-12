@@ -1,7 +1,7 @@
 /*
 Author: Patrick
 Title: George Orwell's Six Rules for Saving the Language (and the World)
-Date: 12/10/09
+Date: 2009-10-08
 */
 
 # George Orwell's Six Rules for Saving the Language (and the World)

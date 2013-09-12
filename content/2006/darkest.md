@@ -1,7 +1,7 @@
 /*
 author: Patrick
 comments: true
-Date: 12/21/06 15:53:38+00:00
+Date: 2006-12-21
 
 Title: The Darkest Day of the Year
 */

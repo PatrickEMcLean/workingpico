@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 09/07/2011
+Date: 2011-09-07
 Title: E-book Pricing and the Elasticity of Demand
 
 */

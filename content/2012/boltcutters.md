@@ -1,6 +1,6 @@
 /*
 author: Patrick
-Date: 06/28/12 
+Date: 2012-06-28 
 Title: The Skeleton Key of The Zombie Apocalypse
 */
 

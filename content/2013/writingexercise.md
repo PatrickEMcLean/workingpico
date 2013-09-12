@@ -1,5 +1,5 @@
 /*
-
+Date: 2013-06-06
 Author: Patrick
 Title: Strategic Writing
 

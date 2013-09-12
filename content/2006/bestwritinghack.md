@@ -1,6 +1,6 @@
 /*
 
-Date: 09/7/2006
+Date: 2006-09-07
 Title: My Best Writing Hack
 Author: Patrick
 

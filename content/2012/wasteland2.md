@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 08/15/2012
+Date: 2012-08-15
 Title: Writing for Wasteland 2 
 */
 

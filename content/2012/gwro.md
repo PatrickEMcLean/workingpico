@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 05/15/2012
+Date: 2012-05-15
 Title: good words (right order) site relaunch
 
 */

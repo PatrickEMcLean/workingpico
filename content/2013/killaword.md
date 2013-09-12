@@ -1,6 +1,6 @@
 /*
 Author: admin
-Date: 01/18/13
+Date: 2013-01-18
 Title: How to Kill a Word
 */
 

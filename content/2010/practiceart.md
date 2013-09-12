@@ -1,6 +1,6 @@
 /*
 author: Patrick
-date: 01/26/10
+date: 2010-01-26
 title: The Reason to Practice an Art
 */
 

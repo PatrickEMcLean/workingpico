@@ -1,3 +1,9 @@
+/*
+Title: Index Page
+Date: 2099-09-01
+
+*/
+
 ## 2013
 
 
@@ -305,6 +311,11 @@
 	<tr>
 		<td class="date">Mar 10</td>
 		<td><a href="./2010/thirdwave">The Third Wave of Literacy</a></td>
+	</tr>
+
+	<tr>
+		<td class="date">Feb 22</td>
+		<td><a href="http://www.goodwordsrightorder.com/resources.html#adverbs">The Road to Hell is Paved with Adverbs</a></td>
 	</tr>
 
 	<tr>

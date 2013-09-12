@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 03/11/2012
+Date: 2012-03-11
 Title: Why Dashiell Hammett's "The Thin Man" is remarkable.
 */
 

@@ -1,10 +1,12 @@
 /*
 Title: To-Do
-Date: 09/1/13
+
 */
 
+http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
+
 * [] migrate domains
-* [] automate rsync deploy (rsync -arvuz . xxxbroxxxx@www.patrickemclean.com:/home/thebrother/www/www)
+* [] automate rsync deploy (rsync -arvuz . thebrother@www@patrickemclean.com:/home/thebrother/www/www)
 * [] check feedburner/itunes setup
 * [] add gw(ro) content and ebooks. (exercise as separate post)
 * [] Add getting shot, essays from the Seanachai. 
@@ -28,7 +30,7 @@ Date: 09/1/13
 
 Add this to the redesign post -- about hating the internet
 
-“Yahoo called me eight weeks ago,” he said, voice rising. “They wanted to put a book of mine on Yahoo! You know what I told them? ‘To hell with you. To hell with you and to hell with the Internet.’
+“Yahoo called me eight weeks ago,” he said, voice rising. “They wanted to put a book of mine on Yahoo! You know what I told them? ‘To hell with you. To hell with you and to hell with the Internet.’			
 
 Also add Orwell quote about doing what you have to to make peace with your times. 
 

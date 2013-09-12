@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 11/27/2012
+Date: 2012-11-27
 Title: Wasteland 2 and the Creative Process
 */
 

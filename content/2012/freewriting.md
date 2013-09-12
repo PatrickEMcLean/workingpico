@@ -1,6 +1,6 @@
 /*
 Author: admin
-Date: 12/15/12
+Date: 2012-12-15
 Title: How to Free Your Writing
 
 */

@@ -3,6 +3,7 @@
 /*
 Title: Join The Email List
 Author: Patrick E. McLean
+Date: 2013-09-01
 */
 
 

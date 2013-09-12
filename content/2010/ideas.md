@@ -1,6 +1,6 @@
 /*
 author: Patrick
-date: 08/04/10
+date: 2010-08-04
 title: Where Do Ideas Come From? 
 */
 

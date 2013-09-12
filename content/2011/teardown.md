@@ -1,7 +1,7 @@
 /*
 author: Patrick
-Date: 02/12/11 
-Title: The Skeleton Key of The Zombie Apocalypse
+Date: 2011-12-02
+Title: Podcast Teardown Interview
 */
 
 A week ago (hey, was it two?) I spent some quality time talking to John Mierau for his “Podcast Teardown” series. It’s a great idea.

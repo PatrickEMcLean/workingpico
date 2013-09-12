@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 09/30/2012
+Date: 2012-09-30
 Title: Story Included in 'Walk the Fire'
 */
 

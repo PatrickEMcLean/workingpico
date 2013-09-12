@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 07/31/10
+Date: 2010-07-31
 Title: A New Keyboard, Glorious and Powerful
 
 */

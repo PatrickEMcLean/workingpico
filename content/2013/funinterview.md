@@ -1,6 +1,6 @@
 /*
-Author: admin
-Date: 03/29/2013
+Author: Patrick
+date: 2013-03-29
 Title: The Most Fun Interview I've Ever Done
 */
 

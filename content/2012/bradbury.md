@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 06/06/2012
+Date: 2012-06-06
 Title: 'RIP Ray Bradbury: There Was Blood on Your Gloves When You Hung them Up.'
 */
 

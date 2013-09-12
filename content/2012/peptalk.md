@@ -1,7 +1,7 @@
 /*
 Author: Patrick
 Title: The Five-Minute Writing Pep Talk
-Date: 02/04/12
+Date: 2012-02-04
 */
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=http%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F41672955"></iframe>

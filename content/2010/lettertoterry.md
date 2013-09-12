@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 12/17/10
+Date: 2010-12-17
 Title: An Open Letter to Terry Pratchett (11 reasons to allow Americans into your contest.)
 */
 

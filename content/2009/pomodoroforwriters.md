@@ -1,6 +1,6 @@
 /*
 Author: Patrick
-Date: 11/19/09
+Date: 2009-11-19 
 Title: The Pomodoro Technique for Writers
 */
 

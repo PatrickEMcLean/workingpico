@@ -1,6 +1,6 @@
 /*
 author: Patrick
-date: 03/10/10
+date: 2010-03-10
 title: The Third Wave of Literacy
 
 */
