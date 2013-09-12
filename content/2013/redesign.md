@@ -8,7 +8,15 @@ Date: 2013-09-08 -->
 
 # How Redesigning My Website Made Me Hate the Web
 
+<<<<<<< HEAD
 This started off as a post to announce my website redesign" but about halfway through it broke loose and turned into something worth reading. The reason why is that I've not only retooled the website, but I've also retooled the way I *work* and the way I think about *the web*. And with the web, my thoughts are pretty simple. I've come to hate it. 
+=======
+How I have come to hate The Web but love my new website 
+
+I realized I didn't just hate my website I hated the Web. 
+
+I started to call this post, "Website Redesign" but that title is far to innocuous for what I'm up to. Sure, I've retooled the website, but I've also retooled the way I *work* and the way I think about *the web*. And with the web, my thoughts are pretty simple. I've come to hate it. 
+>>>>>>> eb2e4595e4e4be706933148f8f76b1af0506313c
 
 ## Constructively Dissatisfied
 
@@ -78,7 +86,10 @@ But since the Internet presents the most wonderful revolution in publishing and 
 
 [^haikudeck]: You don't believe me that the tool can warp the
 user. Try [Haiku Deck](https://itunes.apple.com/us/app/haiku-deck-presentation-slideshow/id536328724?mt=8) and let me know what you think.
+<<<<<<< HEAD
 
 [^feedvalidator]: I have never had the kind of love-hate relationship with anything as I had with feedvalidator.com in those early months of 2005. Love, because it saved my ass. Hated, because I always, always, always broke the feed when I updated it. 
 
 [^speed]: I've finally settled on Sublime Text 2. But the promise of even more blinding speed has me listening to the siren song of [Vim](http://www.terminally-incoherent.com/blog/2012/03/21/why-vim/)
+=======
+>>>>>>> eb2e4595e4e4be706933148f8f76b1af0506313c
