@@ -1,10 +1,12 @@
 /*
-Title: To-Do
+Title: WebsiteTo-Do
 
 */
 
 http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
 
+* [] css on audio player
+* [] add logos of companies I've worked with to gw(ro).com
 * [] migrate domains
 * [] automate rsync deploy (rsync -arvuz . thebrother@www@patrickemclean.com:/home/thebrother/www/www)
 * [] check feedburner/itunes setup

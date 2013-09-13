@@ -5,7 +5,6 @@
 /*=================================*/
 
 
-
 /* Reset Styles
 /*---------------------------------------------*/
 html, body, div, span, applet, object, iframe,
@@ -435,7 +434,7 @@ blockquote {
 #footer a:hover { color: grey; }
 
 
-/* Misc Styles
+/* Video and Audio Wrappers
 /*---------------------------------------------*/
 
 .videoWrapper {
@@ -489,6 +488,10 @@ blockquote {
 			}
 
 
+
+
+
+
 }
 
 @media all and (max-width: 640px) {
@@ -503,6 +506,11 @@ blockquote {
 			max-width: 100%;
 			height: auto;
 		}
+
+			audio {
+		width:200px;
+	
+}
 
 	.aside{
 		clear:both;
@@ -520,13 +528,16 @@ blockquote {
 			width: 7em;		
 	
        }
+       
+
 
 .searchblob {
 	width:250px;
 }
 
-	ul {
-/*	text-align: center;*/
+
+
+
 
 		}
 }

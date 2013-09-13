@@ -14,12 +14,13 @@ Date: 2099-09-01
 		<tr>
 			<td></td>
 			<td>
-		
+			<div class="audiowrapper">
+
 			<audio controls>
-			<source src="http://www.patrickemclean.com/wp-content/uploads/2013/07/PB-HTSIEVampire-01.mp3" type="audio/mpeg">
-			</audio>
-
-
+				<source src="http://www.patrickemclean.com/wp-content/uploads/2013/07/PB-HTSIEVampire-01.mp3" type="audio/mpeg">
+			</audio> 
+			</div>
+		
 			</td>
 		</tr>
 
