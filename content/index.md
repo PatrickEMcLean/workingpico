@@ -264,9 +264,42 @@ Date: 2099-09-01
 		<td><a href="./2010/lettertoterry">A Open Letter to Sir Terry Pratchett</a></td>
 	</tr>
 
+<!-- Book Start -->
 
-<!--  Oct SOMETHINGteenth <a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1D"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg"></a>
- -->
+<tr>
+		<td class="date">Nov 30</td>
+		<td>
+			<h4><a href="http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW">Unkillable</a></h4>
+	
+
+
+
+	<table>
+		<tr>
+			<td class="book">
+			
+				<a href="http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unkillablecover.jpg"></a>
+			
+			</td>
+
+			<td>
+
+				Unkillable is the story of a young man named Dan who is killed and brought back from the dead for a shot at revenge. He doesn't have superpowers or supernatural forces on his side. He can be hurt. He can be maimed. The only thing he's got going for him is that he is Unkillable.
+			
+
+				<a href="http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW">Amazon</a>
+				<br><br>
+
+
+			</td>
+		</tr>
+
+	</table>
+
+		</td>
+	</tr>
+<!-- book end -->
+
 
 
 	<tr>
@@ -284,6 +317,8 @@ Date: 2099-09-01
 		<td class="date">Jul 13</td>
 		<td><a href="./2010/ahabbadass">Captain Ahab, Old-School Badass</a></td>
 	</tr>
+
+<!-- Book Start -->
 
 <tr>
 		<td class="date">March 25</td>
@@ -317,7 +352,7 @@ Date: 2099-09-01
 
 		</td>
 	</tr>
-
+<!-- book end -->
 
 	<tr>
 		<td class="date">Mar 10</td>
@@ -364,6 +399,42 @@ Date: 2099-09-01
 		<td class="date">Nov 04</td>
 		<td><a href="./2009/toughesttrees">The Toughest Trees Ever</a></td>
 	</tr>
+
+<!-- Book Start -->
+
+<tr>
+		<td class="date">Sep 22</td>
+		<td>
+			<h4><a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM">How to Succeed in Evil</a></h4>
+	
+
+
+
+	<table>
+		<tr>
+			<td class="book">
+			
+				<a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1D"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg"></a>
+			
+			</td>
+
+			<td>
+
+				How to Succeed in Evil is the story of Edwin Windsor, Evil Efficiency Consultant. He tries to help supervillains be more villainous. Or at least more profitable and sensible about the business side of Evil. 
+			
+
+				<a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM">Amazon</a>
+				<br><br>
+
+
+			</td>
+		</tr>
+
+	</table>
+
+		</td>
+	</tr>
+<!-- book end -->
 
 
 	<tr>
