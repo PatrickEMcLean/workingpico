@@ -1,13 +1,12 @@
 /*
 Author: admin
-Date: 2013-09-08
+Date: 2013-09-13
 Title: How Redesigning My Website Made Me Hate the Web
 */
 
 
 # How Redesigning My Website Made Me Hate the Web
 
-<<<<<<< HEAD
 This started off as a post to announce my website redesign" but about halfway through it broke loose and turned into something worth reading. The reason why is that I've not only retooled the website, but I've also retooled the way I *work* and the way I think about *the web*. And with the web, my thoughts are pretty simple. I've come to hate it. 
 
 ## Constructively Dissatisfied

@@ -1,5 +1,5 @@
 /*
-Title: Index Page
+Title: Patrick E. McLean
 Date: 2099-09-01
 
 */
@@ -263,6 +263,10 @@ Date: 2099-09-01
 		<td class="date">Dec 17</td>
 		<td><a href="./2010/lettertoterry">A Open Letter to Sir Terry Pratchett</a></td>
 	</tr>
+
+
+<!--  Oct SOMETHINGteenth <a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1D"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg"></a>
+ -->
 
 
 	<tr>
