@@ -7,7 +7,13 @@ Date: 2099-09-01
 ## 2013
 
 
+
 <table class="contents">
+
+	<tr>
+		<td class="date">Sep 13</td> <td><a href="./2013/redesign">How Redesigning my Website Made Me Hate the Web</a></td>
+	</tr>
+
 
 	<tr>
 		<td class="date">Jul 14</td> <td><a href="http://podiobooks.com/title/how-to-succeed-in-evil-consultation-with-vampire/">Free Audiobook: Consultation with a Vampire</a></td>
