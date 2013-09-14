@@ -5,7 +5,7 @@ Title: WebsiteTo-Do
 
 http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
 
-* [] css on audio player
+
 * [] add logos of companies I've worked with to gw(ro).com
 * [] migrate domains
 * [] automate rsync deploy (rsync -arvuz . thebrother@www@patrickemclean.com:/home/thebrother/www/www)
@@ -22,21 +22,13 @@ http://ryanflorence.com/deploying-websites-with-a-tiny-git-hook/
 * [x] consider search? 
 * [x] Add interviews with John Mierau, PG Holyfield,
 * [x] Walk the Fire Anthology?
-* [x]top menu links
+* [x] top menu links
 * [x] Add Analytics
 * [x] add email subscription link
 * [x] migrate old pages
 * [x] add contact link to bottom of page
-* 
+* [x] css on audio player
 
-
-Add this to the redesign post -- about hating the internet
-
-“Yahoo called me eight weeks ago,” he said, voice rising. “They wanted to put a book of mine on Yahoo! You know what I told them? ‘To hell with you. To hell with you and to hell with the Internet.’			
-
-Also add Orwell quote about doing what you have to to make peace with your times. 
-
-Eye-opening to think about my output over years, rather than months. What's going to last. What's going to be worthwhile? A list of my tweets? Fuck no. 
 
 
 ----

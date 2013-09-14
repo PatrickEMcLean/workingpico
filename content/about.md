@@ -17,7 +17,7 @@ I've written several books, including the Parsec Award-Winning _How to Succeed i
 
 I'm also a veteran[^2] of the creative side of the advertising business. I've worked my words in the service of commerce for many years before he dared to write fiction. His advertising work has garnered many self-congratulatory industry awards including One Show and Communication Arts honors.[^3] You can [browse my portfolio](http://www.patrickemclean.com/portfolio) if you like. You could also [hire me.](mailto:patrickemclean@gmail.com) I work freelance.
 
-I currently live in Charlotte, North Carolina with my lovely wife, adorable child, hyperactive dog and more books that you.[^4]
+I currently live in Charlotte, North Carolina with my lovely wife, adorable child, hyperactive dog and more books than you.[^4]
 
 
 	
@@ -28,6 +28,6 @@ I currently live in Charlotte, North Carolina with my lovely wife, adorable chil
 	
 [^3]: This is a lot less important to Patrick than it used to be. Call it wisdom. Call it sanity. Call it growing up.
 
-[^4]: Seriously. 
+[^4]: Okay, maybe not you. You read the footnote. But it's a lotta books.
 
 
