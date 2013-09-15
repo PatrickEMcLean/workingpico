@@ -37,8 +37,8 @@
 <pre>
  .  ____  .    ____________________________
  |/      \|   |                            |
-[| <span style="color: #FF0000;">&hearts;  &hearts;</span> |]  | Git Deployment Script v0.1 |
- |___==___|  /                             |
+[| <span style="color: #FF0000;">&hearts;  &hearts;</span> |]   | Git Deployment Script v0.1 |
+ |___==___|   |                            |
               |____________________________|
  
 <?php echo $output; ?>
