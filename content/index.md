@@ -1,6 +1,5 @@
 /*
 Title: Patrick E. McLean
-Date: 2099-09-01
 
 */
 
