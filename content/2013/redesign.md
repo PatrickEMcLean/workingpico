@@ -1,6 +1,6 @@
 /*
 Author: admin
-Date: 2013-09-13
+Date: 2013-09-15
 Title: How Redesigning My Website Made Me Hate the Web
 */
 
