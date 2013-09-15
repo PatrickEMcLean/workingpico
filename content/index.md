@@ -31,7 +31,6 @@ Title: Patrick E. McLean
 
 	</tr>
 
-<!-- http://www.patrickemclean.com/wp-content/uploads/2013/07/PB-HTSIEVampire-01.mp3 -->
 
 	<tr>
 		<td class="date">Jun 22</td> <td><a href="./2013/writingexercise"><strong>good words</strong> (right order) online exercise</a></td>
