@@ -359,6 +359,7 @@ Title: Patrick E. McLean
 <!-- book end -->
 
 	<tr>
+		
 		<td class="date">Mar 10</td>
 		<td><a href="./2010/thirdwave">The Third Wave of Literacy</a></td>
 	</tr>
