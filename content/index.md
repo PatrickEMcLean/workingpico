@@ -43,8 +43,20 @@ Title: Patrick E. McLean
 
 
 	<tr>
+		<td class="date">Jun 06</td>
+		<td><a href="./2013/bradbury">R.I.P. Ray Bradbury</a></td>
+	</tr>
+
+
+
+	<tr>
 		<td class="date">Mar 29</td> <td><a href="./2013/funinterview">The Most Fun Interview I've Ever Done</a></td>
 	</tr>
+
+	<tr>
+		<td class="date">Feb 05</td> <td><a href="./2013/craftaline">How to Craft a Line</a></td>
+	</tr>
+
 
 
 	<tr>
@@ -123,12 +135,6 @@ Title: Patrick E. McLean
 
 		</td>
 	</tr>
-
-	<tr>
-		<td class="date">Jun 06</td>
-		<td><a href="./2012/bradbury">R.I.P. Ray Bradbury</a></td>
-	</tr>
-
 
 
 

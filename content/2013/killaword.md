@@ -15,5 +15,5 @@ Title: How to Kill a Word
 
 
 
-A good words (right order) screenbook designed to help the world be a clearer, more succinct place.
+A [good words (right order)](http://www.goodwordsrightorder.com) screenbook designed to help the world be a clearer, more succinct place.
 
