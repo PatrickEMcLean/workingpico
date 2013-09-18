@@ -365,7 +365,7 @@ Title: Patrick E. McLean
 
 	<tr>
 		<td class="date">Feb 22</td>
-		<td><a href="http://www.goodwordsrightorder.com/resources.html#adverbs">The Road to Hell is Paved with Adverbs</a></td>
+		<td><a href="./2010/adverbs">The Road to Hell is Paved with Adverbs</a></td>
 	</tr>
 
 	<tr>
@@ -378,7 +378,7 @@ Title: Patrick E. McLean
 </table>
 
 
-### 2009
+## 2009
 
 
 <table class="contents">
@@ -453,7 +453,7 @@ Title: Patrick E. McLean
 
 
 
-### 2006
+## 2006
 
 <table class="contents">
 	<tr>
@@ -468,7 +468,7 @@ Title: Patrick E. McLean
 	</tr>
 </table>
 
-### 2005
+## 2005
 
 <table class="contents">
 
