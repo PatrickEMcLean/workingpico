@@ -13,7 +13,7 @@ Title: About Me
 
 I'm an author, Creative Director and creator of [**good words** (right order)](http://www.patrickemclean.com), a training method to help people communicate more powerfully and with less effort. 
 
-I've written five books, including the Parsec Award-Winning _How to Succeed in Evil_. I was also the author and voice of the [Seanachai](http://www.theseanachai.com)[^1] Podcast. You can find my [complete bibliography here.](http://www.patrickemclean.com/books) as well as for sale on Amazon. Most of my work is available as [author-read audiobooks](http://podiobooks.com/search/?q=patrick%20mclean#gsc.tab=0&gsc.q=patrick%20mclean&gsc.page=1).
+I've written five books, including the Parsec Award-Winning _How to Succeed in Evil_. I was also the author and voice of the [Seanachai](http://www.theseanachai.com)[^1] Podcast. You can find my [complete bibliography here](http://www.patrickemclean.com/books), as well as for sale on Amazon. Most of my work is available as [author-read audiobooks](http://podiobooks.com/search/?q=patrick%20mclean#gsc.tab=0&gsc.q=patrick%20mclean&gsc.page=1).
 
 I'm also a veteran[^2] of the creative side of the advertising business. I've worked my words in the service of commerce for many years before I dared to write fiction. My work has garnered many self-congratulatory industry awards including One Show and Communication Arts honors.[^3] You can [browse my portfolio](http://www.patrickemclean.com/portfolio) if you like. You could also [hire me.](mailto:patrickemclean@gmail.com) I work freelance.
 
