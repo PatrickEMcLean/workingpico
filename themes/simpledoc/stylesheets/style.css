@@ -329,13 +329,20 @@ blockquote {
 
 
 .searchblob {
-		width: 500px;
+	width: 500px;
 	margin: 0 auto;
 	padding-bottom: 1em;
 
+}
 
+.vertheroimage {
+	width: 300px;
+	margin: 0 auto;
+	padding-bottom: 1em;
 
 }
+
+
 
 
 .gsc-search-button {
@@ -533,6 +540,13 @@ blockquote {
 	width:250px;
 }
 
+
+.vertheroimage {
+	width: 200px;
+	margin: 0 auto;
+	padding-bottom: 1em;
+
+}
 
 
 
