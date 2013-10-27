@@ -18,9 +18,9 @@ I promise:
 3. I'll only email you when I've really got news about something[^3]
 4. Any emails will have *way* fewer footnotes per square inch.[^4]
 
-[^1]: More importantly, I won't waste *my* time. I'm a busy guy. Find the time to put together an email, even when I have stuff to share, is hard enough. +
+[^1]: More importantly, I won't waste *my* time. I'm a busy guy. Finding the time to put together an email, even when I have stuff to share, is hard enough. 
 
-[^2]: To be boring is a sin. If they didn't tell you this in church it's because you go to a boring church. 
+[^2]: To be boring is a sin. If they didn't tell you this in church it's because you went to a boring church. 
 
 [^3]: Seriously, I've had this list since at least 2008. I've sent out maybe four emails. Mostly for new books. I'd like to get my act together and send out twice that many emails. But still, one a year? C'mon. Sign up already. 
 
