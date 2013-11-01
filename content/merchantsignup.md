@@ -10,7 +10,7 @@ Date: 2013-09-01
 
 You join my email list, and I'll give you a lovely poster/essay/piece of artwork entitled *Boltac's Mercantile Guide to Better Living through Sharp Trading.* Not only is it entertaining, but these handy haggling tips might actually save you money.
 
-Also, by joining the list, you'll extra content, sneak peeks and things that the unwashed heathens who aren't on my email list just don't get. 
+Also, by joining the list, you'll get extra content, sneak peeks and things that the unwashed heathens who aren't on my email list just don't get. 
 
 
 I promise:
