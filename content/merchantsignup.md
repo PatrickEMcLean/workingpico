@@ -5,8 +5,8 @@ Date: 2013-09-01
 */
 
 
-# Let's Make a Deal!
-## (it's the way Boltac would have wanted it.)
+# Let's Make a Deal! Boltac-style!
+
 
 You join my email list, and I'll give you a lovely poster/essay/piece of artwork entitled *Boltac's Mercantile Guide to Better Living through Sharp Trading.* Not only is it entertaining, but these handy haggling tips might actually save you money.
 
