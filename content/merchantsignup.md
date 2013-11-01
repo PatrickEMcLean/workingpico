@@ -1,14 +1,13 @@
 /*
 Title: Join the Email List
 Author: Patrick E. McLean
-Date: 2013-09-01
 */
 
 
 # Let's Make a Deal! Boltac-style!
 
 
-You join my email list, and I'll give you a lovely poster/essay/piece of artwork entitled *Boltac's Mercantile Guide to Better Living through Sharp Trading.* Not only is it entertaining, but these handy haggling tips might actually save you money.
+If you join my email list, via that handy form below, I'll give you a lovely pdf entitled *Boltac's Mercantile Guide to Better Living through Sharp Trading.* Not only is it entertaining, but these handy haggling tips might actually save you money.
 
 Also, by joining the list, you'll get extra content, sneak peeks and things that the unwashed heathens who aren't on my email list just don't get. 
 
