@@ -8,6 +8,10 @@ Title: Patrick E. McLean
 
 
 <table class="contents">
+	<tr>
+		<td class="date">Dec 7</td> <td><a href="./2013/thinkingaboutmaking">The Things I Think About When Making Things</a></td>
+	</tr>
+
 
 	<tr>
 		<td class="date">Sep 13</td> <td><a href="./2013/redesign">How Redesigning my Website Made Me Hate the Web</a></td>
