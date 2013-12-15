@@ -30,8 +30,9 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 .tinydate {
 	margin-top: -1.5em;
-	margin-bottom: -.25em;
+	margin-bottom: .25em;
 	font-size: 90%;
+	text-align: center;
 
 }
 
@@ -188,8 +189,8 @@ h1 {
 
 h2,h3 {
 	font-size: 1.5em;
-	margin-top: 1.5em;
-	margin-bottom: .2Sem;
+	margin-top: 1em;
+	margin-bottom: 1em;
 	margin-left: 1em;
 	margin-right: 1em;
 
