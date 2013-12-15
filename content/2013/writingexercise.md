@@ -11,7 +11,6 @@ Title: Strategic Writing
 </div>
 
 
-# Strategic Writing
 
 I've just posted a [strategic writing exercise](http://goodwordsrightorder.com/exercise) that I do for **good words** (right order)[^1]. It's excellent -- really, one of the best things I've ever done -- and I'd recommend it to anyone who has a job or wants one someday.
 

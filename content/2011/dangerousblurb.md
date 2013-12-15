@@ -7,7 +7,6 @@ Title: The World's Most Dangerous About the Author Blurb
 
 ![](http://patrickemclean.com/images/eyball.jpg)
 
-# The World's Most Dangerous About the Author Blurb
 
 
 

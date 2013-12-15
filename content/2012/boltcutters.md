@@ -4,7 +4,6 @@ Date: 2012-06-28
 Title: The Skeleton Key of The Zombie Apocalypse
 */
 
-# The Skeleton Key of The Zombie Apocalypse
 
 <div class="big center">
 

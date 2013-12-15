@@ -4,7 +4,6 @@ Title: The Merchant Adventurer Extras
 
 */
 
-# The Merchant Adventurer Extras
 
 As a thank you for making it to the end of my book and allowing me to be a tiny part of your inbox, I have made a companion poster and set of ringtones for the Merchant Adventurer. I cracked myself up making both of them, so I hope you enjoy. 
 

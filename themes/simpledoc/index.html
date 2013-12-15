@@ -16,6 +16,8 @@
 	
 	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
 
+	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+
 	<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
 	
 	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
@@ -25,9 +27,11 @@
 	<link rel=”alternate” type="application/atom+xml"
 	 title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
 
-
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
 	<script type="text/javascript">
 
+	$.bigfoot();
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-24332471-1']);
   _gaq.push(['_trackPageview']);
@@ -55,7 +59,7 @@
 	<header id="header">
 		<div class="inner clearfix">
 			<div class="headertype">
-				THE OFFICIAL-LOOKING WEBSITE OF AUTHOR
+				THE OFFICIAL-LOOKING WEBSITE OF WRITER
 			</div>
 			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
 
@@ -66,19 +70,138 @@
 			</div>
 
 		</div>
-	
-
-<!--End mc_embed_signup-->
-
-
 	</header>
 
 	<section id="content">
 
 
 			<div class="inner clearfix">
+		{% if is_front_page %}
 	
-			{{ content }}
+	<div class="latestpost">
+		<h3 id="start">Most Recent Writing Video</h3>
+			<hr><br>
+
+		<div id="indexvideo">
+			{% set a=0 %}
+			{% for page in pages if page.date %}
+				{% if a==0 %} 
+					{% if page.author == "Video" %}
+						{% set a=1 %} 
+						<h1>{{ page.title }}</h1>
+						{{ page.content }}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+
+
+			<a href="./writingvideos"><em>All Videos</em></a>
+		</div>
+	</div>
+			
+	
+
+		<div class="latestpost">
+			<h3>Latest Post</h3>
+			<hr><br>
+
+			
+			{% set a=0 %}
+			{% for page in pages if page.date %}
+				{% if a==0 %} 
+					{% if page.author != "Video" %}
+						{% set a=1 %} 
+						<h1>{{ page.title }}</h1>
+						{{ page.content }}
+					{% endif %}
+				{% endif %}
+			{% endfor %}
+
+		
+
+		
+		</div>
+
+
+		<h3>Last 10 Posts</h3>
+			<hr>
+		<div class="posts">
+
+				<table class="poststable">
+					{% for page in pages|slice(0, 10) if page.date %}
+					
+					{% if (page.author != "Video") %}
+
+				   	<tr>
+
+				    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
+				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+				    </tr>
+
+				    {% endif %}
+				    {% endfor %}
+
+				    	<tr>
+
+				    	<td></td> 
+				    	<td class="title"><a href="./archive">Archive</a></td>
+
+				    </tr>
+
+
+				</table>
+
+		</div>
+
+
+		{% elseif meta.title == "archive" %}
+
+
+		<table class="posts">
+					{% for page in pages if  page.date and (page.author != "video")  %}
+					
+				   	<tr>
+
+				    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
+				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+				    </tr>
+				    {% endfor %}
+				</table>
+
+
+		{% elseif meta.title == "Writing Videos" %}
+
+		<h1>Writing With Patrick</h1>
+
+			<table class="videotable">
+
+				{% for page in pages if page.author == "Video" %}
+
+			   		<tr>
+			    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
+			    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+			    	</tr>
+			    
+			    {% endfor %}
+
+			</table>
+
+		{% else %}
+
+		{% if meta.title %}
+			<h1>{{ meta.title }}</h1>
+		{% endif %}
+
+		{{ content }}
+
+		</div>
+
+		{% endif %}
+
+
+
 		</div>
 	</section>
 	

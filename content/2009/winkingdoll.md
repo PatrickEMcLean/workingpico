@@ -7,7 +7,6 @@ Date: 2009-11-12
 [![His name is daruma](http://sendreinforcements.com/wp-content/uploads/2009/11/His-name-is-daruma-1024x487.jpg)](http://sendreinforcements.com/wp-content/uploads/2009/11/His-name-is-daruma.jpg)
 
 
-# So Why is This Doll Winking at Me?
 
 So this little guy is the original weeble-wobble. His name is Daruma and this is his home on my desk. There is a weight in his paper-mache base, so if you knock him over he stands back up again. He is modeled after a legendary monk named Bodhidarma. Like all legendary characters, there are a number of tall tales about him. (They're has to be, right? He's got his own action figure.) What is most consistent in the tales is that Bodhidarma was the man who brought the practice of Zen Buddhism to China from India.
 

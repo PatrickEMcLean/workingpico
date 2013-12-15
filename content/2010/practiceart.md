@@ -6,7 +6,6 @@ title: The Reason to Practice an Art
 
 
 
-# The Reason to Practice an Art
 
 It occurs to me, how much of my life I have spent in the practice of an art. As I write it, the word 'art' seems ladened with incorrect connotations. It seems more correct to describe the process as a craft. There is, to be certain, an art of writing. But to get to the art requires a tremendous amount of craft. So much craft that I find it misleading to talk about the ‘Art of Writing.’
 

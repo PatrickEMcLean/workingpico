@@ -6,7 +6,6 @@ Title: The Pomodoro Technique for Writers
 
 
 
-# The Pomodoro Technique for Writers
 
 
 

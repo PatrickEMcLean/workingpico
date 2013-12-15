@@ -1,10 +1,9 @@
 /*
 author: Patrick
 date: 2013-05-04
-title: Visualizing the Hidden Structure of Stories -- The Hunter
+title: StoryMaps -- Visualizing the Hidden Structure of Stories
 */
 
-# Storymaps -- Visualizing Story Through Infographics
 
 This is a series of posts I did on the underlying structure of novels. It's an interesting visual tool. I'm not going to suggest that any tool like this is the best, but thinking about stories in structural ways has made me a better writer.
 

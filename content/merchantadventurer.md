@@ -1,9 +1,8 @@
 /*
 author: Patrick
-Title: The Merchant Adventurer Preview
+
 
 */
-
 
 
 <div class="vertheroimage">

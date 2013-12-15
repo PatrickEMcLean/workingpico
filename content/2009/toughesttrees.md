@@ -4,7 +4,6 @@ Title: The Toughest Trees Ever
 Date: 2009-11-04
 */
 
-# The Toughest Trees Ever
 
 <div class="aside left clear">
 

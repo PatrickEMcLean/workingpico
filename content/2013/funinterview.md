@@ -4,7 +4,6 @@ date: 2013-03-29
 Title: The Most Fun Interview I've Ever Done
 */
 
-# The Most Fun Interview I've Ever Done
 
 And probably the best one to date. 
 

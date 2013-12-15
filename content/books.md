@@ -1,7 +1,8 @@
 /*
 Title: Books
-author: Patrick
-Date: 2013-09-01
+Author: Patrick
+kind: video
+
 */
 
 ### How to Succeed in Evil

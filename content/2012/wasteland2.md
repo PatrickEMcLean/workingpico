@@ -7,7 +7,7 @@ Title: Writing for Wasteland 2
 [![](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)](http://www.patrickemclean.com/wp-content/uploads/2012/08/waste2.jpeg)
 
 
-# Writing for Wasteland 2
+
 
 I’ve been hired to help write and develop Wasteland 2. If you’re not a gamer, or you haven’t played the original, some explanation of why this is so cool is in order.
 

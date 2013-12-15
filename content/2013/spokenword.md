@@ -1,11 +1,9 @@
 /*
 Author: Patrick
 Date: 2013-06-12
-Title
+Title: Short Form Spoken Word
 */
 
-
-# Short Form Spoken Word
 
 To get back in the habit of recording and editing, I wrote and recorded some very short form spoken word pieces. Emerson said, 
 

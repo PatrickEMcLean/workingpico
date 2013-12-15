@@ -6,7 +6,7 @@ Title: Wasteland 2 and the Creative Process
 
 [![](http://www.patrickemclean.com/wp-content/uploads/2012/11/Snapshot-112712-1102-AM.jpeg)](http://www.patrickemclean.com/wp-content/uploads/2012/11/Snapshot-112712-1102-AM.jpeg)
 
-# The Wasteland 2 Creative Process
+
 
 Two weeks ago, I flew to Newport Beach and locked myself in a room with the rest of the Wasteland 2 design team. In this room was a three foot high copy of the complete game script, parts of which each person in the room had been writing for the last three months[^1]. To give you an idea of how much material this really is, a movie script is an inch, maybe two at the most. To say that Wasteland 2 is going to be deep and interactive is an understatement. 
 

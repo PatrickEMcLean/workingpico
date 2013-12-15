@@ -6,7 +6,6 @@ title: The Third Wave of Literacy
 */
 
 
-# The Third Wave of Literacy
 
 
 I believe we just entered what I call the Third Wave of Literacy. It’s tough to pinpoint this occurrence exactly – it’s not like anybody blew a whistle – but as I look back from the dizzying technological height of 2010, here are the divisions I can see.

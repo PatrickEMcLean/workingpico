@@ -7,7 +7,6 @@ Date: 2009-04-08
 
 [![](http://www.patrickemclean.com/wp-content/uploads/2009/01/handwriting.jpg)](http://www.patrickemclean.com/wp-content/uploads/2009/01/handwriting.jpg)
 
-# A Defense of Writing Longhand
 
 [podcast audio](http://www.theseanachai.com/episodes/defenselonghand.mp3)
 

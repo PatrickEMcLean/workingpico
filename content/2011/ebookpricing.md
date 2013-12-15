@@ -5,7 +5,6 @@ Title: E-book Pricing and the Elasticity of Demand
 
 */
 
-# E-book Pricing and the Elasticity of Demand
 
 *this was a guest post  that originally appeared on the [Creative Penn](http://www.thecreativepenn.com/‎)*
 

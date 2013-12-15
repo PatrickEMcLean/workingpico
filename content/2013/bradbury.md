@@ -1,14 +1,14 @@
 /*
 Author: Patrick
 Date: 2012-06-06
-Title: 'RIP Ray Bradbury: There Was Blood on Your Gloves When You Hung them Up.'
+Title: RIP Ray Bradbury: There Was Blood on Your Gloves When You Hung them Up.
 */
 
 <div class="center big">
 <img src="http://www.patrickemclean.com/images/ray.jpg">
 </div>
 
-# R.I.P. Ray Bradbury
+
 
 Ray Bradbury is dead at 91. But that's not my measure of the man. As a writer, I notice that he died at 27 novels, 600 short stories. That's a full writing life. A very full life, indeed. 
 

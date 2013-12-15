@@ -1,8 +1,7 @@
 /*
-Title: Thanks
+Title: Thanks For Joining
 Author: Patrick E. McLean
 */
-# Thanks for Joining
 
 You have searched. You have sought. You have quite possibly autofilled the wrong form in a drunken stupor. But whatever the case may be, you are now part of an *Elite Few*. 
 
