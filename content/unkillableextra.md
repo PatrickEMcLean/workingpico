@@ -4,7 +4,7 @@ Title: Unkillable Extras
 
 */
 
-# Unkillable Extras
+
 
 IT PAINS ME TO ADMIT THIS, but Unkillable is 1/3rd of an unfinished work. I wrote a 30,000 word draft of a sequel, which was tentatively titled, *Undying*. Unfortunately, it didn't live up to it's name and died on the vine. To appease the Cruel Gods of Irony, perhaps I should have named it *Unfinished*?
 

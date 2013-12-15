@@ -10,7 +10,6 @@ Title: Why Dashiell Hammett's "The Thin Man" is remarkable.
 
 </div>
 
-# Why Dashiell Hammett's "The Thin Man" is remarkable.
 
 
 

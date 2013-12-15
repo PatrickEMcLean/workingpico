@@ -1,5 +1,5 @@
 /*
-Date: 2013-09-01
+
 Author: Patrick
 Title: About Me
 */
@@ -23,11 +23,11 @@ I currently live in Charlotte, North Carolina with my lovely wife, adorable chil
 	
 [^1]: A big ol’ Celtic mouthful of a word that means storyteller. 
 	
-[^2]: Veteran is the correct word to use here, because it implies scars, which he has.
+[^2]: Veteran is the correct word to use here, because it implies scars, which I have.
 
 	
 [^3]: This is a lot less important to Patrick than it used to be. Call it wisdom. Call it sanity. Call it growing up.
 
-[^4]: Okay, maybe not you. You read the footnote. But it's a lotta books.
+[^4]: Okay, maybe not you. You're the kind of person who reads the footnotes. But it's a lotta books.
 
 

@@ -28,7 +28,38 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 }
 
+#indexvideo {
+	text-align: center;
+}
 
+#start {
+	margin-top: .5em;
+}
+
+.movie {
+	margin:auto;
+	width: 420px;
+}
+
+.posts tr table td {
+	margin-bottom: -.75em;
+	padding-bottom: -.75em;
+	margin-top: 
+}
+
+table {
+	margin:auto;
+}
+
+.postdate {
+	font-size: .75em;
+	margin-bottom: -.75em;
+}
+
+.title {
+	padding-left: .5em;
+
+}
 
 body {
 

@@ -4,7 +4,6 @@ Date: 2010-12-17
 Title: An Open Letter to Terry Pratchett (11 reasons to allow Americans into your contest.)
 */
 
-# An Open Letter to Sir Terry Pratchett
 
 So, Sir Terry Pratchett is having a contest for unpublished novels, but you can't enter if you live in the U.S. This sucks. Especially for me. Because How to Succeed in Evil is an unpublished satire/parody that uses the superhero genre in a similar way that Sir Terry uses the genre of fantasy. He doesn't really write "fantasy" novels. He writes very funny, yet very serious books that deal with things in our world, but take the edge off by setting them in Discworld. His book Thud! is a very good example that deals with fundamentalist Islam but does it with dwarfs and humor, instead of say, fear and bombs. 
 

@@ -5,7 +5,6 @@ Title: Having Been the Victim of a Shooting
 
 */
 
-# Having Been the Victim of a Shooting
 
 As a guy who [has been the victim of a shooting](http://www.theseanachai.com/2010/04/05/getting-shot/), it seems incumbent upon me to make some kind of comment about the horrible events in Colorado.
 

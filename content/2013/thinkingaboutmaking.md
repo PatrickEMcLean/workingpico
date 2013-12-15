@@ -5,7 +5,6 @@ Title: The Things I Think About When Making Things
 */
 
 
-# The Things I Think About When Making Things
 
 ## 1. Ignore the Connection Between Quality and Paycheck.
 
@@ -80,7 +79,7 @@ This is also useful to remember in post-production. Especially with sound. I onc
 
 In 45 minutes a talented engineer can edit and mix a whole other spot.
 
-## 7. The Greatest Gains in Speed Come From Abandoning Bad Ideas Quicker.
+## 7. The Greatest Gains in Speed Come From Releasing Bad Ideas With Grace.
 
 Sometimes people let a good idea go for lack of confidence, but I find this is the exception rather than the rule. What usually happens is that you have an idea and you are seized with a kind of mania. It’s going to be awesome. You will be universally acclaimed. Fame and fortune will soon follow.
 
@@ -114,7 +113,7 @@ Because if a child took the time to get self-conscious and embarrassed over each
 
 > Fall seven times and stand up eight.
 
-# 10. Don’t waste time worrying about how to end blog posts.
+## 10. Don’t waste time worrying about how to end blog posts.
 
 You can always do something clever with an additional heading. Besides, nobody cares about the ending. They just want the meat of it.
 
@@ -125,4 +124,4 @@ This is especially true of dramatic scenes. Get in late, and get out early.
 
 [^stole]:all great writers are thieves, so that's a compliment.
 
-[^babe]:The only person to have a better at bat/home run ratio is Mark McGuire, but he was ‘roided to the gills when he did it.Not only did the Babe not have steroids, but it’s a good bet he hit many of his home runs hung over. 
+[^babe]:The only person to have a better at bat/home run ratio is Mark McGuire, but he was ‘roided to the gills when he did it. Not only did the Babe not have steroids, but it’s a good bet he hit many of his home runs hung over. 

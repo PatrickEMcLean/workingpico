@@ -1,5 +1,5 @@
 /*
-Title: Join the Email List
+
 Author: Patrick E. McLean
 */
 

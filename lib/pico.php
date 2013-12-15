@@ -139,6 +139,7 @@ class Pico {
 		return $content;
 	}
 
+
 	/**
 	 * Parses the file meta from the txt file header
 	 *

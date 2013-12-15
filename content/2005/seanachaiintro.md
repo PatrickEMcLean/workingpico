@@ -4,7 +4,6 @@ Author: Patrick
 Date: 2005-01-01
 */
 
-# The Seanachai Podcast
 
 In 2005 I set a goal. One essay or short story, written, recorded, edited, scored, etc., every week. I was a tremendous amount of work. But, I did it. 
 

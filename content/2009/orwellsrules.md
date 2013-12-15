@@ -4,7 +4,6 @@ Title: George Orwell's Six Rules for Saving the Language (and the World)
 Date: 2009-10-08
 */
 
-# George Orwell's Six Rules for Saving the Language (and the World)
 
 The world doesn't make much sense to me. Or, more precisely, the sense that the world makes to others is not the sense it makes to me.
 

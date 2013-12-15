@@ -1,13 +1,12 @@
 
 
 /*
-Title: Join The Email List
+Title: Join The Email List!
 Author: Patrick E. McLean
-Date: 2013-09-01
+
 */
 
 
-# JOIN!
 
 Seriously, you've always wanted to be part of something like this, haven't you? And even if you haven't, you've joined a lot crappier email lists for even less of a reason. 
 

@@ -13,7 +13,6 @@ Title: Captain Ahab, Old-School Badass
 
 
 
-# Captain Ahab,<br>Old-School Badass
 
 I'm re-reading Moby Dick. Happened to pick it up this weekend and it sucked me right in. 
 

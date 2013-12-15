@@ -1,7 +1,7 @@
 /*
 Author: Patrick
 Title: Speaking/Teaching
-Date: 2013-09-01
+
 */
 
 <div class="big center">
@@ -10,7 +10,6 @@ Date: 2013-09-01
 
 </div>
 
-# Speaking/Teaching
 
 I am available to speak about writing as well as conduct small group training and executive coaching. 
 

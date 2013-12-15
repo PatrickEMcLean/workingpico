@@ -1,11 +1,11 @@
 /*
 Author: Patrick
 Date: 2012-05-15
-Title: good words (right order) site relaunch
+Title: good words (right order)
 
 */
 
-# **good words** (right order)
+
 
 As some of you know, in 2005 I started helping professionals with their writing. This work involves coaching individuals, designing instructional materials and teaching classes. I work primarily with VBHs (Very Busy Humans) at innovative companies.[^1] In terms of corporate classification, this activity generally falls under Talent Development, Leadership Development, and/or Human Resources.
 

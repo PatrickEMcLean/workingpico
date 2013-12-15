@@ -8,7 +8,6 @@ Title: The Darkest Day of the Year
 
 ![Screenshot 12:21:12 10:51 AM](http://www.patrickemclean.com/wp-content/uploads/2012/12/Screenshot-122112-1051-AM.jpeg)
 
-# The Darkest Day of the Year
 
 Because we do things like reason and use language and make digital watches, we like to think of ourselves as very complex and enlightened creatures. It’s vanity. And I believe it’s totally unjustified. We’re really very, very simple creatures (with pretty specific limitations) who like to trick ourselves into thinking that we’re not. We often overlook the obvious things and pass up the simple truth in favor of a more complex falsehood. Like the Mayan Apocalypse
 
