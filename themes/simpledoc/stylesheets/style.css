@@ -568,7 +568,22 @@ blockquote {
 
 @media all and (max-width: 640px) {
 
+
+	#header .headertype {
+		line-height: 1.3em;
+		font-size: 200%
+
+	}
+
+	#header h1 {
+		line-height: 1.3em;
+		font-size: 500%
+
+	}
+
 	body{ font-size:75%;}
+
+
 
 	.inner { width:92%;
 		     margin: 0 auto;
@@ -583,6 +598,8 @@ blockquote {
 		width:200px;
 	
 }
+
+
 
 	.aside{
 		clear:both;
