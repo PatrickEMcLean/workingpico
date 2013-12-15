@@ -6,7 +6,7 @@ Date:  2013-12-17
 
 */
 
-<div>
+<div class="video-container">
 
 <!-- <iframe width="420" height="315" src="//www.youtube.com/v/tt_ZLD9ta-I?showinfo=0&amp;autoplay=0"></iframe> -->
 
