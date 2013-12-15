@@ -28,6 +28,13 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 }
 
+.tinydate {
+	margin-top: -1.5em;
+	margin-bottom: -.25em;
+	font-size: 90%;
+
+}
+
 #indexvideo {
 	text-align: center;
 }
