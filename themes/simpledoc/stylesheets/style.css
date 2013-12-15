@@ -569,6 +569,14 @@ blockquote {
 @media all and (max-width: 640px) {
 
 
+	#hellobar {
+		visibility:hidden;
+	}
+
+	#hellobar_pusher {
+		visibility:hidden;
+	}
+
 	#header .headertype {
 		line-height: 1.3em;
 		font-size: 200%
