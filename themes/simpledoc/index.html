@@ -89,14 +89,15 @@
 					{% if page.author == "Video" %}
 						{% set a=1 %} 
 						<div class="tinydate"> {{ page.date }} </div>
-						<h1>{{ page.title }}</h1>
+						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 						{{ page.content }}
+						<a href="{{ page.url }}#comments"><em>Leave a comment</em></a><br>
 					{% endif %}
 				{% endif %}
 			{% endfor %}
 
 
-			<a href="./writingvideos"><em>All Videos</em></a>
+			<a href="./writingvideos"><em>More Videos</em></a>
 		</div>
 	</div>
 			
@@ -113,13 +114,15 @@
 					{% if page.author != "Video" %}
 						{% set a=1 %} 
 						<div class="tinydate"> {{ page.date }} </div>
-						<h1>{{ page.title }}</h1>
+						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 						{{ page.content }}
+						<a href="{{ page.url }}#comments">Please leave a comment.</a>
+
 					{% endif %}
 				{% endif %}
-			{% endfor %}
 
 		
+			{% endfor %}
 
 		
 		</div>
@@ -244,6 +247,9 @@
 
 <hr>
 <div class="subscribe">If you've made it this far, why not <a href="{{ base_url }}/subscribe">subscribe?</a></div> <br>
+
+<a name="comments"></a> 
+
 
 	<div id="disqus_thread"></div>
     <script type="text/javascript">

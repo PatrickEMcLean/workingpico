@@ -1,8 +1,8 @@
 /*
 
 Author: Video
-Title: Helping Amazing Companies?
-Date:  2013-12-13
+Title: Competitive Global Marketplace
+Date:  2013-12-16
 
 */
 
@@ -10,8 +10,7 @@ Date:  2013-12-13
 
 
 
-
-<iframe width="425" height="350" src="http://www.youtube.com/embed/tt_ZLD9ta-I?&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="425" height="350" src="http://www.youtube.com/embed/XsKpWrCfxG0?&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 
 
 </div>
