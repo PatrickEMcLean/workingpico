@@ -1,7 +1,7 @@
 /*
 
 Author: Video
-Title: Competitive Global Marketplace
+Title: Customer Relationship Management
 Date:  2013-12-16
 
 */
@@ -9,7 +9,7 @@ Date:  2013-12-16
 <div class="video-container">
 
 
-<iframe width="425" height="350" src="http://www.youtube.com/embed/XsKpWrCfxG0?&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe class="" id="" type="text/html" width="425" height="350" src="http://www.youtube.com/embed/gBcHf60CSj4?&amp;showinfo=0" frameborder="0"  ></iframe>
 
 
 
