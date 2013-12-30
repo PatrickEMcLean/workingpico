@@ -28,6 +28,10 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 }
 
+#headersubscribe {
+	line-height: 2.2em;
+}
+
 #headersearch {
 	margin:auto;
 	width:66%;
