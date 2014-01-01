@@ -107,29 +107,8 @@
 			<div class="inner clearfix">
 		{% if is_front_page %}
 	
-	<div class="latestpost">
-		<h3 id="start">Most Recent Writing Video</h3>
-			<hr><br>
-
-		<div id="indexvideo">
-			{% set a=0 %}
-			{% for page in pages if page.date %}
-				{% if a==0 %} 
-					{% if page.author == "Video" %}
-						{% set a=1 %} 
-						<div class="tinydate"> {{ page.date }} </div>
-						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-						{{ page.content }}
-						<a href="{{ page.url }}#comments"><em>Leave a comment</em></a><br>
-					{% endif %}
-				{% endif %}
-			{% endfor %}
-
-
-			<a href="./writingvideos"><em>More Videos</em></a>
-		</div>
-	</div>
-			
+	
+	
 	
 
 		<div class="latestpost">
