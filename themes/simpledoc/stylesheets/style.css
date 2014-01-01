@@ -28,6 +28,15 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 }
 
+
+#latestpost a {
+	color:black;
+}
+
+#latestpost a:hover {
+	color:red;
+}
+
 #headersubscribe {
 	line-height: 2.2em;
 }
@@ -157,7 +166,7 @@ body {
 
 	font-family: 'Libre Baskerville', serif;
 
-	font-size: 110%;
+	font-size: 100%;
 	line-height: 2;
 	color: black;
 	background: #fff;

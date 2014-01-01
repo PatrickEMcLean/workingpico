@@ -111,9 +111,8 @@
 	
 	
 
-		<div class="latestpost">
-			<h3>Latest Post</h3>
-			<hr><br>
+		<div id="latestpost">
+		
 
 			
 			{% set a=0 %}
@@ -121,10 +120,10 @@
 				{% if a==0 %} 
 					{% if page.author != "Video" %}
 						{% set a=1 %} 
-						<div class="tinydate"> {{ page.date }} </div>
+						<!-- <div class="tinydate"> {{ page.date }} </div> -->
 						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
 						{{ page.content }}
-						<a href="{{ page.url }}#comments">Please leave a comment.</a>
+						<a class="red" href="{{ page.url }}#comments"><em>Comments?</em></a>
 
 					{% endif %}
 				{% endif %}
