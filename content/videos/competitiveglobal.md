@@ -2,7 +2,7 @@
 
 Author: Video
 Title: Competitive Global Marketplace
-Date:  2013-12-16
+
 
 */
 
