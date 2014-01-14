@@ -5,18 +5,40 @@ kind: video
 
 */
 
-### How to Succeed in Evil
-
+* [The Merchant Adventurer](#ma)
 * [How to Succeed in Evil](#evil)
-* [Hostile Takeover](#hostile)
-* [Consultation with a Vampire](#vampire)
-
-### Others
-
+* [Hostile Takeover (HtSiE)](#hostile)
+* [Consultation with a Vampire (HtSiE)](#vampire)
 * [Unkillable](#unkillable)
 * [Stories I Told Myself](#stories)
 <br> <br>
 <hr>
+
+
+<a id="ma"></a>
+### [The Merchant Adventurer](http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM) 
+
+
+<div class="aside right clear">
+
+<a href="http://www.amazon.com/Merchant-Adventurer-Patrick-E-McLean-ebook/dp/B00HRLDBPG"><img src="http://www.patrickemclean.com/images/cover_200xcopy.jpg"></a>
+
+
+</div>	
+
+An ordinary, money-grubbing Merchant struggling to make a coin off penniless, incompetent adventurers is forced to take on the impossible quest of saving his town and rescuing the woman he loves from a treacherous and powerful Wizard. A battle of wit, wits and haggling that is part homage to, part skewer of the richly worked and often overwrought fantasy genre. 
+
+An artful, satire of dungeon crawls and cRPG's, the Merchant Adventurer is part Princess Bride, part Dungeon Pawn Stars and a rollicking good read.
+
+[Buy on Amazon](http://www.amazon.com/Merchant-Adventurer-Patrick-E-McLean-ebook/dp/B00HRLDBPG) 
+
+[Podiboooks.com](http://podiobooks.com/title/the-merchant-adventurer/) 
+
+[iTunes](http://itunes.apple.com/podcast/id794743550) 
+
+<hr>
+
+
 
 <a id="evil"></a>
 ### [How to Succeed in Evil](http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM) 
