@@ -20,7 +20,7 @@ As I was writing dialog for many of the NPCs in WL2, I had this thought: What mu
 
 For me, the archetypal shopkeeper is Boltac, the merchant in the first Wizardry. Boltac's was the only place you could buy, sell or get things identified. He had no personality in the game, but he was absolutely ruthless with his pricing. Perfect arbitrage meant that you got no value from looting the dungeon. He charged exactly what something was worth to identify it! You couldn't win with this guy. 
 
-So from Boltac's perspective, all these half-assed adventurers come through, try to nickel and dime him, and then go off to defeat the Evil Wizard. And none of them succeed. And most of them get killed. In short, the Heroes are incompetent. *"Yeah, yeah, kid, here's your sword. Good luck, whattya want on your tombstone."* 
+So from Boltac's perspective, all these half-assed adventurers come through, try to nickel and dime him, and then go off to defeat the Evil Wizard. And none of them succeed. And most of them get killed. In short, the Heroes are incompetent. *"Yeah, yeah, kid, here's your sword. Good luck, whattya want on your tombstone?"* 
 
 So my question became, under what circumstances does the Merchant take matters into his own hands and save the day? How do you get that character off the sidelines and into the action? And further, how could the Merchant actually win?
 
