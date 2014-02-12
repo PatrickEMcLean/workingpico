@@ -30,11 +30,15 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 
 #latestpost a {
-	color:black;
+	color:red;
 }
 
 #latestpost a:hover {
-	color:red;
+	color:grey;
+}
+
+#latestpost h1 a {
+	color:black;
 }
 
 #headersubscribe {

@@ -48,24 +48,7 @@ Yes! [Darwyn Cooke](http://www.amazon.com/Parker-The-Score-Darwyn-Cooke/dp/16137
 
 So if you're in... If you want to live a life of reading hard and well, reading hard some more and saying funny things about all of it, then join the email list and we'll go from there. If I get 25+ signups, I'm doing it. If not, I'll just spend the time writing more books. 
 
-
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<style type="text/css">
-  #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
-  /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
-     We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
-</style>
-  <div id="mc_embed_signup">
-  <form action="http://goodwordsrightorder.us1.list-manage.com/subscribe/post?u=602066dab95a5d4df9a118155&amp;id=caa48bac76" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
-      <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;"><input type="text" name="b_602066dab95a5d4df9a118155_caa48bac76" value=""></div>
-    <div class="clear"><input type="submit" value="Join Up" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-  </form>
-  </div>
-
-<!--End mc_embed_signup-->
+*Update -- We're live! [Join us on goodreads.](https://www.goodreads.com/group/show/126581-the-sons-of-literacy)*
 
 
 [^jargon]: If that's not barbarous jargon, I don't know what is. I'm sorry. I'll beat myself later. 
