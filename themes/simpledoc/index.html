@@ -1,37 +1,46 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en">
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-	
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+
+
+  <meta charset="utf-8" />
+
+  
+  <meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+
+<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+
 {% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
+  <meta name="description" content="{{ meta.description }}"> 
 {% endif %}
+
 
 {% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
+  <meta name="robots" content="{{ meta.robots }}">
 {% endif %}
-	
-	
-	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
 
-	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+    
+    <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
 
-	<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
-	
-	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
+    <link rel=”alternate” type=”application/rss+xml” title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
 
-	<link rel=”alternate” type=”application/rss+xml” title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+    <link rel=”alternate” type="application/atom+xml"
+     title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
 
-	<link rel=”alternate” type="application/atom+xml"
-	 title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
+    <script type="text/javascript"></script>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
-	<script type="text/javascript">
 
-	$.bigfoot();
+      <link href="{{ theme_url }}/responsive.css" media="screen" rel="stylesheet" type="text/css">
+     
+
+  <link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+
+  <script type="text/javascript">
+
+  $.bigfoot();
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-24332471-1']);
   _gaq.push(['_trackPageview']);
@@ -44,244 +53,298 @@
 
 </script>
 
-    <!-- Favicon
+  <!-- Favicon
     ================================================== -->
     <link rel="shortcut icon" href="./images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href=".images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="./images/apple-touch-icon-114x114.png">
 
-	
+
+
 </head>
-<body>
-
-
-
-
-
-
-
-
-	<header id="header">
-
-
-
-
-		<div class="inner clearfix">
-			<div class="headertype">
-				<div id="headersubscribe">Why not <a href="{{ base_url }}/subscribe">SUBSCRIBE</a> to</div>
-				THE OFFICIAL-LOOKING WEBSITE OF WRITER
-			</div>
-			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
-
-			<div class="headertype">
-			
-
-				<a href="{{ base_url }}/about">ABOUT </a>| <a href="{{ base_url }}/archive">ARCHIVE </a>| <a href="{{ base_url }}/contact">CONTACT </a>| <a href="{{ base_url }}/books">BOOKS </a>| <a href="{{ base_url }}/speaking">SPEAKING/TEACHING </a>  
-			</div>
-
-				<div id="headersearch">
-
-
-			<script>
-			  (function() {
-			    var cx = '000518898980765515244:8nss_auknps';
-			    var gcse = document.createElement('script');
-			    gcse.type = 'text/javascript';
-			    gcse.async = true;
-			    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-			        '//www.google.com/cse/cse.js?cx=' + cx;
-			    var s = document.getElementsByTagName('script')[0];
-			    s.parentNode.insertBefore(gcse, s);
-			  })();
-			</script>
-			<gcse:search></gcse:search>
-		</div>
-
-		</div>
-	</header>
-
-	<section id="content">
-
-
-			<div class="inner clearfix">
-		{% if is_front_page %}
-	
-	
-	
-	
-
-		<div id="latestpost">
-		
-
-			
-			{% set a=0 %}
-			{% for page in pages if page.date %}
-				{% if a==0 %} 
-					{% if page.author != "Video" %}
-						{% set a=1 %} 
-						<!-- <div class="tinydate"> {{ page.date }} </div> -->
-						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-						{{ page.content }}
-						<a class="red" href="{{ page.url }}#comments"><em>Comments?</em></a>
-
-					{% endif %}
-				{% endif %}
-
-		
-			{% endfor %}
-
-		
-		</div>
-
-
-		<h3>Last 10 Posts</h3>
-			<hr>
-		<div class="posts">
-
-				<table class="poststable">
-					{% for page in pages|slice(0, 10) if page.date %}
-					
-					{% if (page.author != "Video") %}
-
-				   	<tr>
-
-				    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
-				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-
-				    </tr>
-
-				    {% endif %}
-				    {% endfor %}
-
-				    	<tr>
-
-				    	<td></td> 
-				    	<td class="title"><a href="./archive">Archive</a></td>
-
-				    </tr>
-
-
-				</table>
-
-		</div>
-
-
-		{% elseif meta.title == "Archive" %}
-
-
-		<table class="posts">
-					{% for page in pages if  page.date and (page.author != "video")  %}
-					
-				   	<tr>
-
-				    	<td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
-				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-
-				    </tr>
-				    {% endfor %}
-				</table>
-
-
-		{% elseif meta.title == "Writing Videos" %}
-
-		<h1>Writing With Patrick</h1>
-
-			<table class="videotable">
-
-				{% for page in pages if page.author == "Video" %}
-
-			   		<tr>
-			    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
-			    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-			    	</tr>
-			    
-			    {% endfor %}
-
-			</table>
-
-		{% else %}
-
-		{% if meta.title %}
-			<h1>{{ meta.title }}</h1>
-		{% endif %}
-
-		{{ content }}
-
-		</div>
-
-		{% endif %}
-
-
-
-		</div>
-	</section>
-	
-	<footer id="footer">
-		<div class="inner clearfix">
 
 
 
 {% if is_front_page %}
 
-	<hr>
 
-	<div class="subscribe">If you've made it this far, why not <a href="./subscribe">subscribe?</a></div> <br>
+  <body class="home">
 
-<div class="searchblob">
+    <header class="masthead">
 
-
-<script>
-  (function() {
-    var cx = '000518898980765515244:8nss_auknps';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+  
+    </header>
 
 
+    <div class="container">
+      <div class="content">
+
+        <header class="page-introduction">
+          <h1>Patrick E. McLean</h1>
+          <h2>Author of <a href="">&#8220;The Merchant Adventurer&#8221;</a>, <a href="">&#8220;How to Succeed in Evil&#8221;</a> and four other books. President of <a href="http://www.goodwordsrightorder.com">good words (right order)</a> a content development agency. You probably want to <a href="">join his email list</a> .
+
+        
+          </h2>
+
+        </header>
+
+        <section class="home-content">
+
+          <div class="home-latest">
+            <div class="home-latest-posts">
+              <h3>Latest posts</h3>
+
+              <div class="home-latest-posts-stream">
+                
+
+     {% for page in pages|slice(0, 4) if page.date %}
+          
+          {% if (page.author != "Video") %}
+
+            <article class="post">  
+
+              <header class="post-header">
+
+                <h4>
+              {{ page.date|date("m/d") }} 
+              </h4>
+
+               <h1>
+        
+                <a href="{{ page.url }}">{{ page.title }}</a>
+              </h1>
+               </header>
+
+             
+
+           <div class="post-content">
+              {{ page.excerpt }}
+
+              <a href="{{ page.url }}"> continue reading </a>
+
+            </div>
+
+  
+    </article>
+           
+            {% endif %}
+            {% endfor %}
+           
+                
 
 
-</div>
+          
+
+                
+              
+          </div>
+          </div>
+
+            <div class="home-latest-continue">
+              <h3>Keep reading</h3>
+              <p><a href="http://signalvnoise.com/all">Scroll through the latest</a> or see <a href="http://signalvnoise.com/archives">a table of contents.</a></p>
+            </div>
+
+            <div class="home-latest-search">
+              <h3>Search for articles or authors</h3>
+
+              <form method="get" action="http://www.google.com/search">
+                <input type="hidden" name="sitesearch" value="signalvnoise.com">
+                <input name="q" placeholder="Search Signal vs. Noise…" type="text" class="input-text">
+              </form>
+            </div>
+
+            <div class="home-latest-categories">
+              <h3>Explore Signal vs. Noise by topic</h3>
+
+              <ul>
+                
+                  <li><a href="http://signalvnoise.com/business">Business</a></li>
+                
+                  <li><a href="http://signalvnoise.com/design">Design</a></li>
+                
+                  <li><a href="http://signalvnoise.com/programming">Programming</a></li>
+                
+                  <li><a href="http://signalvnoise.com/support">Support</a></li>
+                
+                  <li><a href="http://signalvnoise.com/sysadmin">Sysadmin</a></li>
+                
+                  <li><a href="http://signalvnoise.com/writing">Writing</a></li>
+                
+                <li><a href="http://signalvnoise.com/popular">Best of</a></li>
+                <li><a href="http://signalvnoise.com/archives">Everything</a></li>
+              </ul>
+            </div>
+
+            <div class="home-latest-writers">
+              <h3>About Patrick</h3>
+              <p>Signal vs. Noise is <a href="http://signalvnoise.com/writers/">written by the team at Basecamp</a>, makers of the world’s most popular project management software.</p>
+            </div>
+          </div>
+
+          <div class="home-best">
+            <h3>Worth Special Attention</h3>
+
+            <ul>
+              <a href="http://signalvnoise.com/posts/1539-writing-decisions-saving-space-without-losing-meaning">
+                <li>
+                  <h4>Writing Decisions: Saving space without losing meaning</h4>
+                  <p>Omit needless words.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2628-how-to-hire-a-programmer-when-youre-not-a-programmer">
+                <li>
+                  <h4>How to hire a programmer when you're not a programmer</h4>
+                  <p>Ask these questions first.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2412-how-do-you-turn-inspiration-into-skill">
+                <li>
+                  <h4>How do you turn inspiration into skill?</h4>
+                  <p>Copy the masters.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/archives2/it_just_doesnt_matter.php">
+                <li>
+                  <h4>It just doesn’t matter</h4>
+                  <p>Why’d you leave out my pet feature?</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/1619-theres-always-time-to-launch-your-dream">
+                <li>
+                  <h4>There's always time to launch your dream</h4>
+                  <p>You want it that badly? Figure it out.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/1748-forget-the-resume-kill-on-the-cover-letter">
+                <li>
+                  <h4>Forget the resume, kill on the cover letter</h4>
+                  <p>Your CV doesn’t tell us if you’re any fun.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2794-how-to-get-good-at-making-money">
+                <li>
+                  <h4>How to get good at making money</h4>
+                  <p>Make awesome stuff and charge for it.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2904-forget-passion-focus-on-proces">
+                <li>
+                  <h4>Forget passion, focus on process</h4>
+                  <p>We can’t all be rock stars and ballerinas.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/3124-give-it-five-minutes">
+                <li>
+                  <h4>Give it five minutes</h4>
+                  <p>Cool it, you hothead.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/1325-acquire-taste">
+                <li>
+                  <h4>Acquire taste</h4>
+                  <p>Yes, you can develop an eye.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/1061-why-we-skip-photoshop">
+                <li>
+                  <h4>Why we skip Photoshop</h4>
+                  <p>Step 1: Draw it. Step 2: Build it.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/439-four-letter-words">
+                <li>
+                  <h4>Four letter words</h4>
+                  <p>The worst kind of potty-mouth.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/3014-four-tips-for-learning-how-to-program">
+                <li>
+                  <h4>Four tips for learning how to Program</h4>
+                  <p>You gotta start somewhere.</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2746-all-the-wrong-things-we-did-with-rework">
+                <li>
+                  <h4>All the “wrong” things we did with REWORK</h4>
+                  <p>Take that, conventional wisdom!</p>
+                </li>
+              </a>
+              <a href="http://signalvnoise.com/posts/2314-why-is-business-writing-so-awful">
+                <li>
+                  <h4>Why is business writing so awful?</h4>
+                  <p>Because everyone is trying to sound like everyone else.</p>
+                </li>
+              </a>
+            </ul>
+          </div>
+        </section>
+
+
+
+{% elseif meta.title == "Archive" %}
+
+    {% elseif meta.title == "Archive" %}
+
+
+    <table class="posts">
+          {% for page in pages if  page.date and (page.author != "video")  %}
+          
+            <tr>
+
+              <td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
+              <td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+            </tr>
+            {% endfor %}
+        </table>
+
+
 
 {% else %}
 
-<hr>
-<div class="subscribe">If you've made it this far, why not <a href="{{ base_url }}/subscribe">subscribe?</a></div> <br>
+ <body class="perma">
 
-<a name="comments"></a> 
+    <header class="masthead">
 
+      <p>
+    You're reading the official blog of writer <a href="http://www.patrickemclean.com">Patrick E. McLean</a>
+  </p>
 
-	<div id="disqus_thread"></div>
-    <script type="text/javascript">
-        
-        var disqus_shortname = 'patrickemclean'; // required: replace example with your forum shortname
-
-        /* * * DON'T EDIT BELOW THIS LINE * * */
-        (function() {
-            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-        })();
-    </script>
-    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
-
-{% endif %}
- 
-		</div>
+</header>
 
 
-	</footer>
+    <div class="container">
+      <div class="content">
+        <article class="post instapaper_body">
+  
+    <header class="post-header">
 
-<!-- https://app.hellobar.com/ 
+    {% if meta.title %}
+      <h1>{{ meta.title }}</h1>
+    {% endif %}
 
-    <script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/a1a4b159131cd1bea47acdca5893c82aaa2acae7.js"></script> -->
-</body>
-</html>
+</header>
+
+    {{ content }}
+
+  </div class="container">
+      </div class="content">
+
+    {% endif %}
+
+        <section class="footer-copyright">
+          <p>
+            Meet <a href="http://signalvnoise.com/writers/">the writers</a> of <a href="./Signal vs. Noise by Basecamp — Business, Design, Programming and the Web_files/Signal vs. Noise by Basecamp — Business, Design, Programming and the Web.html">Signal vs. Noise</a>.
+            If you like what you’re reading, check out <a href="http://basecamp.com/books">our best-selling books REWORK and REMOTE</a>.
+          </p>
+          <p>
+            Content copyright ©1999-2014 <a href="http://basecamp.com/">Basecamp</a>.
+            Subscribe to our <a href="http://feeds.feedburner.com/37signals/beMH">RSS</a>.
+          </p>
+          <p>Enjoy your <span data-day="">Friday</span>.</p>
+        </section>
+      </div>
+    </div>
+</body></html>

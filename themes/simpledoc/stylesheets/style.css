@@ -28,6 +28,55 @@ table, caption, tbody, tfoot, thead, tr, th, td {
 
 }
 
+#masthead {
+	background-color: yellow;
+}
+
+#container {
+	max-width: 960px;
+	margin:auto;
+}
+
+#mainheader {
+	border-bottom: 1px solid #CCC;
+}
+
+#homecontent {
+	display:block;
+}
+
+	#sidebar-left {
+	  float: left;
+	  box-sizing: border-box;
+	  margin-bottom: 0;
+	  padding: 2em;
+	  width: 49%;
+	}
+
+#sidebar-right {
+	float: right;
+	box-sizing: border-box;
+  	margin-bottom: 0;
+  	padding: 2em;
+  	width: 49%;
+  	border-left: 1px solid #CCC;
+
+}
+
+
+
+
+}
+
+
+
+#latestpost img {
+	display:block;
+	margin:auto;
+
+}
+
+
 
 #latestpost a {
 	color:red;
@@ -398,11 +447,22 @@ blockquote {
 }
 
 .vertheroimage {
+	display:block;
 	width: 300px;
-	margin: 0 auto;
+	margin: auto;
 	padding-bottom: 1em;
 
 }
+
+.vertheroimage img {
+	display:block;
+	margin: auto;
+
+
+}
+
+
+
 
 .smallimage {
 	width: 150px;
@@ -454,7 +514,7 @@ blockquote {
 
 }
 
-#header {
+#mainheader {
 	text-align: center;
 	padding: 10px 0;
 	margin-bottom: 3em;
@@ -465,36 +525,36 @@ blockquote {
 
 	
 }
-#header a { color: black; }
-#header a:hover { color: red; }
-#header h1 { 
+#mainheader a { color: black; }
+#mainheader a:hover { color: red; }
+#mainheader h1 { 
 	margin-top: .10em;
 	margin-bottom: .20em;
 	font-size: 3em;
 }
-#header .nav {
+#mainheader .nav {
 	
 	list-style: none;
 	margin: 0;
 	padding: 0;
 }
-#header .nav li { display: inline-block; }
-#header .nav a {
+#mainheader .nav li { display: inline-block; }
+#mainheader .nav a {
 	
 }
 
-#header .headertype {
+#mainheader .headertype {
 	line-height: 1.3em;
 	font-size: 110%
 
 }
 
-#header .headertype a {
+#mainheader .headertype a {
 
 	 color: red; 
 }
 
-#header .headertype a:hover {
+#mainheader .headertype a:hover {
 
 	 color: grey; 
 }
@@ -567,7 +627,7 @@ blockquote {
 
 @media all and (max-width: 1024px) {
 	
-	.inner { width:92%;
+	.inner { width:960px;
 		     margin: 0 auto;
 		 }
 
@@ -662,13 +722,13 @@ blockquote {
 }
 
 
-.vertheroimage {
+/*.vertheroimage {
 	width: 200px;
 	margin: 0 auto;
 	padding-bottom: 1em;
 
 }
-
+*/
 
 
 
