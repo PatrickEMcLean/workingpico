@@ -4,7 +4,10 @@ Title: Why is This Doll Winking at Me?
 Date: 2009-11-12
 */
 
-[![His name is daruma](http://sendreinforcements.com/wp-content/uploads/2009/11/His-name-is-daruma-1024x487.jpg)](http://sendreinforcements.com/wp-content/uploads/2009/11/His-name-is-daruma.jpg)
+
+<div class="center horizimage">
+<img src="http://patrickemclean.com/wp-content/uploads/2009/11/His-name-is-daruma-1024x487.jpg">
+</div>
 
 
 

@@ -9,6 +9,11 @@
  */
 class Pico_Plugin {
 
+	public function before_read_file_meta(&$headers)
+	{
+		$headers['image'] = 'Image';
+	}
+
 	public function plugins_loaded()
 	{
 		

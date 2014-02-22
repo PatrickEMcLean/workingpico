@@ -259,35 +259,25 @@
                   <p>The worst kind of potty-mouth.</p>
                 </li>
               </a>
-              <a href="http://signalvnoise.com/posts/3014-four-tips-for-learning-how-to-program">
-                <li>
-                  <h4>Four tips for learning how to Program</h4>
-                  <p>You gotta start somewhere.</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/2746-all-the-wrong-things-we-did-with-rework">
-                <li>
-                  <h4>All the “wrong” things we did with REWORK</h4>
-                  <p>Take that, conventional wisdom!</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/2314-why-is-business-writing-so-awful">
-                <li>
-                  <h4>Why is business writing so awful?</h4>
-                  <p>Because everyone is trying to sound like everyone else.</p>
-                </li>
-              </a>
             </ul>
           </div>
         </section>
 
 
 
-{% elseif meta.title == "Archive" %}
+
 
     {% elseif meta.title == "Archive" %}
 
+    <header class="masthead">
 
+      <p>
+    You're reading the official blog of writer <a href="http://www.patrickemclean.com">Patrick E. McLean</a>
+  </p>
+
+</header>
+
+ <body class="solopage">
     <table class="posts">
           {% for page in pages if  page.date and (page.author != "video")  %}
           
@@ -299,12 +289,12 @@
             </tr>
             {% endfor %}
         </table>
-
+</div>
 
 
 {% else %}
 
- <body class="perma">
+ <body class="perma solopage">
 
     <header class="masthead">
 
@@ -321,12 +311,15 @@
   
     <header class="post-header">
 
+    
+
+
     {% if meta.title %}
       <h1>{{ meta.title }}</h1>
     {% endif %}
 
 </header>
-
+{{ meta.image }}
     {{ content }}
 
   </div class="container">

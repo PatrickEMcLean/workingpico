@@ -2,6 +2,7 @@
 title: New Book: The Merchant Adventurer 
 author: Patrick
 date: 2014-01-14
+image: http://www.patrickemclean.com/images/boltaccover.jpg
 
 */
 
