@@ -33,7 +33,7 @@ header {
 body {
   line-height: 1;
   font-family: 'Libre Baskerville', serif;
-  font-size: 85%;
+  font-size: 90%;
   line-height: 2em;
  color: #333333;
   background: #fff;
@@ -42,18 +42,39 @@ body {
    }
 
 p {
-  margin-bottom:1em;
+  margin-top: 1em;
 }
+
 
 
 .solopage {
   max-width:800px;
   margin:auto;
+
 }
 
+.solopage p {
+ font-size: 120%
+  
+}
+
+
+.solopage code {
+ font-size : 160%;
+ } 
+
+.solopage pre {
+  padding-bottom:2em;
+  padding-left: 2em;
+
+ }
+
+
 .solopage table,ol {
-  margin-bottom: 1em;
+  margin-bottom: 2em;
   padding-left: 5em;
+  padding-top: 1.5em;
+  font-size: 110%;
 }
 
 
@@ -62,6 +83,7 @@ p {
   font-size: 2em;
 
 }
+
 
 
 .solopage h2,h3 {
@@ -116,6 +138,8 @@ img {
 
 }
 
+
+
 .smallimage {
   width: 150px;
   margin: 0 auto;
@@ -127,19 +151,13 @@ img {
 .vertheroimage {
 
   text-align: center;
-  display:block;
+  max-width: 500px;
 
   margin: auto;
   padding-bottom: 1em;
 
 }
 
-
-.vertheroimage img {
-  display:block;
-  margin: auto;
-
-}
 
 
 .left { float: left;
@@ -168,7 +186,7 @@ img {
 .aside{
   clear:both;
   font-style: italic;
-  font-size: 80%;
+  font-size: 130%;
   max-width: 150px;
   line-height: 1.5em;
   padding-top: 1.2em;
@@ -180,6 +198,47 @@ img {
 }
 
 
+
+/* Video and Audio Wrappers
+/*---------------------------------------------*/
+
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
+  height: 0;
+}
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 30px;
+    height: 0;
+    overflow: hidden;
+    width: 100%;
+    max-width: 700px;
+    margin: 0 auto;
+}
+.video-container iframe,
+.video-container object,
+.video-container embed {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-height: 394px;
+}
+
+
+
 article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
   display: block; }
 
@@ -187,7 +246,9 @@ nav ul {
   list-style: none; }
 
 blockquote, q {
-  quotes: none; }
+  quotes: none; 
+  line-height: 180%;
+  }
 
 blockquote:before, blockquote:after, q:before, q:after {
   content: none; }
@@ -678,10 +739,12 @@ body.missing header {
     letter-spacing: -1px;
     line-height: 1.15em;
     margin: 0 auto .35em; }
+
     @media only screen and (min-width: 768px) {
       .page-introduction h1 {
         font-size: 2.813em; } }
   .page-introduction h2 {
+    max-width: 700px;
     color: #444;
     font-size: 1.15em;
     font-weight: 300;
@@ -1342,7 +1405,7 @@ section.styleguide h3 {
 
 .post blockquote {
   color: #444;
-  font-size: 1.5em; }
+  font-size: 1.3em; }
 .post .note {
   background: #FCF6E3;
   border: 1px solid #EDE3C8 !important;

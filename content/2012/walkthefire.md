@@ -4,7 +4,10 @@ Date: 2012-09-30
 Title: Story Included in 'Walk the Fire'
 */
 
-[![](http://www.patrickemclean.com/wp-content/uploads/2012/09/Walk-The-Fire_-J.-Daniel-SawyerEdward-W.-RobertsonMatthew-Sanborn-SmithBrand-GamblinJason-Andrew-BondPatrick-McLeanNathan-LowellJake-BibleJohn-Mierau_-Amazon.com_-Kindle-Store.jpg)](http://www.patrickemclean.com/wp-content/uploads/2012/09/Walk-The-Fire_-J.-Daniel-SawyerEdward-W.-RobertsonMatthew-Sanborn-SmithBrand-GamblinJason-Andrew-BondPatrick-McLeanNathan-LowellJake-BibleJohn-Mierau_-Amazon.com_-Kindle-Store.jpg)
+
+<div class="vertheroimage">
+<img src="http://www.patrickemclean.com/wp-content/uploads/2012/09/Walk-The-Fire_-J.-Daniel-SawyerEdward-W.-RobertsonMatthew-Sanborn-SmithBrand-GamblinJason-Andrew-BondPatrick-McLeanNathan-LowellJake-BibleJohn-Mierau_-Amazon.com_-Kindle-Store.jpg">
+</div>
 
 The anthology just hit #8 on Kindle:SciFi:Anthologies. I'd like to say that the meteoric rise of this anthology was due to the fact that one of my stories is in it, but I'm pretty sure that's not the case. Here's the complete list of authors. It's quite a cast and I'm flattered to have been asked.
 
