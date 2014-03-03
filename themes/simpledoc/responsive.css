@@ -10,6 +10,31 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   margin: 0;
   padding: 0; }
 
+.bookcover  {
+  max-width: 100px;
+  margin:auto;
+  text-align: center;
+  display:block;
+}
+  
+#mc_embed_signup {
+
+  background:#fff; 
+  clear:left; 
+  font:inherit; 
+
+  text-align: center;}
+
+
+#mc_embed_signup input {
+ 
+  margin:auto;
+}
+
+#mainimage {
+  max-width:400px;
+  margin:auto;
+}
 
 .content {
   font-family: 'Libre Baskerville', serif;
@@ -24,6 +49,10 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 .post-header h4{
   margin-top: 1.5em;
   font-weight: normal;
+}
+
+#initial-header {
+ margin-top: 0;
 }
 
 header {
@@ -57,7 +86,6 @@ p {
  font-size: 120%
   
 }
-
 
 .solopage code {
  font-size : 160%;
