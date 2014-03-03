@@ -204,12 +204,10 @@
   
     </article>
            
-            {% endif %}
-            {% endfor %}
+          {% endif %}
+      {% endfor %}
            
                 
-
-
           
 
                 
@@ -352,24 +350,24 @@
 
 
 
-    {% elseif meta.title == "Archive" %}
+  {% elseif meta.title == "Archive" %}
 
 
 
- <body class="solopage">
-    <table class="posts">
-          {% for page in pages if  page.date and (page.author != "video")  %}
-          
-            <tr>
+   <body class="solopage">
+      <table class="posts">
+            {% for page in pages if  page.date and (page.author != "video")  %}
+            
+              <tr>
 
-              <td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
-              <td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+                <td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
+                <td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
 
-            </tr>
-            {% endfor %}
-        </table>
-</div>
-
+              </tr>
+              {% endfor %}
+          </table>
+  </div>
+  </body>
 
 {% else %}
 
@@ -402,6 +400,7 @@
 
   </div class="container">
       </div class="content">
+</body>
 
     {% endif %}
 
