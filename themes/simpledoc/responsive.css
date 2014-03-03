@@ -10,11 +10,38 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   margin: 0;
   padding: 0; }
 
+#hypno {
+  text-align: center;
+  font-size: 90%;
+  margin-top: -.5em;
+ 
+  font-family: 'Libre Baskerville', serif;
+}
+
+.home-latest-writers blockquote {
+  padding-top: 1em;
+  padding-bottom: 1em;
+  font-style: italic;
+  padding-left: .75em;
+}
+
+
+.books { 
+  margin:auto;
+  margin-bottom: 2em;
+}  
+
+.bookcover:hover {
+  max-width: 73px;
+
+}
+
 .bookcover  {
-  max-width: 100px;
+  max-width: 75px;
   margin:auto;
   text-align: center;
   display:block;
+  margin-right: 2em;
 }
   
 #mc_embed_signup {
@@ -766,7 +793,7 @@ body.missing header {
     font-weight: 400;
     letter-spacing: -1px;
     line-height: 1.15em;
-    margin: 0 auto .35em; }
+    margin: 0 auto  }
 
     @media only screen and (min-width: 768px) {
       .page-introduction h1 {

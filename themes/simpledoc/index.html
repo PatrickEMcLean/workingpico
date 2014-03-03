@@ -66,31 +66,104 @@
 
 
 
-{% if is_front_page %}
 
 
   <body class="home">
 
     <header class="masthead">
 
+<ul>
+
+</ul>
+
+      <table class="books">
+            
+              <tr>
+              <td> 
+                  <a href="./books#ma">
+               
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/images/cover_200xcopy.jpg">
+                  </div>
+               
+              </a>
+
+              </td>
+              <td>
+
+                   <a href="./books#evil">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg">
+                  </div>
+                
+              </a>
+
+              </td>
+
+
+        <td> 
+                    <a href="./books#hostile">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HostileTakeover.jpg">
+                  </div>
+                
+              </a>
+              </td>
+
+              <td>
+
+               <a href="./books#vampire">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/Screenshot_4_30_13_9_19_PM.jpg">
+                  </div>
+                
+              </a>
+
+        
+
+              </td> 
+
+              <td>
+
+
+            <a href="./books#unkillable">
+                 
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unkillablecover.jpg">
+                  </div>
+                
+              </a>
+
+              </td>
+
+
+            </tr>
+          </ul>
+            </table>
+
   
     </header>
 
 
+
     <div class="container">
       <div class="content">
+          
 
         <header class="page-introduction">
-          <div id="mainimage">
-          <img src="http://patrickemclean.com/images/paddy.png">
-          </div>
+         
           <h1>Patrick E. McLean</h1>
-          <h2>is an author and copywriter. His most recent book is <a href="./merchantadventurer">&#8220;The Merchant Adventurer&#8221;</a>. He has a nice <a href="http://www.behance.com/patrickemclean">portfolio</a>. You should <a href="./subscribe">join his email list</a>.
+          <h2>is an author and copywriter. His most recent book is <a href="./merchantadventurer">&#8220;The Merchant Adventurer&#8221;</a>. He also has a nice <a href="http://www.behance.com/patrickemclean">portfolio</a>. 
 
         
           </h2>
 
         </header>
+
+{% if is_front_page %}
 
         <section class="home-content">
 
@@ -144,22 +217,36 @@
           </div>
           </div>
 
+             <div class="home-latest-search">
+              <h3>Search</h3>
+                <script>
+                  (function() {
+                    var cx = '000518898980765515244:8nss_auknps';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                        '//www.google.com/cse/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+                </script>
+                <gcse:search></gcse:search>
+          
+
+              
+            </div>
+
+
             <div class="home-latest-continue">
-              <h3>Keep reading</h3>
-              <p><a href="http://signalvnoise.com/all">Scroll through the latest</a> or see <a href="http://signalvnoise.com/archives">a table of contents.</a></p>
+              <h3>Everything</h3>
+              <p><a href="./archive">View the complete archive</a> 
             </div>
 
-            <div class="home-latest-search">
-              <h3>Search for articles or authors</h3>
+         
 
-              <form method="get" action="http://www.google.com/search">
-                <input type="hidden" name="sitesearch" value="signalvnoise.com">
-                <input name="q" placeholder="Search Signal vs. Noise…" type="text" class="input-text">
-              </form>
-            </div>
-
-            <div class="home-latest-categories">
-              <h3>Explore Signal vs. Noise by topic</h3>
+         <!--    <div class="home-latest-categories">
+             
 
               <ul>
                 
@@ -178,17 +265,25 @@
                 <li><a href="http://signalvnoise.com/popular">Best of</a></li>
                 <li><a href="http://signalvnoise.com/archives">Everything</a></li>
               </ul>
-            </div>
+            </div> -->
 
             <div class="home-latest-writers">
               <h3>About Patrick</h3>
-              <p>Signal vs. Noise is <a href="http://signalvnoise.com/writers/">written by the team at Basecamp</a>, makers of the world’s most popular project management software.</p>
+              <p>I stole this from Orwell, but I'm not sure I can say it any better.</p>
+              <blockquote>"So long as I remain alive and well I shall continue to feel strongly about prose style, to love the surface of the earth, and to take a pleasure in solid objects and scraps of useless information. It is no use trying to suppress that side of myself. The job is to reconcile my ingrained activities and dislikes with the essentially public, non-individual activities that this age forces on all of us."</blockquote>
+
+              For all the resume-type bits, <a href="http://patrickemclean.com/about">click here.</a></p>
             </div>
           </div>
 
           <div class="home-best">
 
-        <h3 id="initial-header">Join the Email List</h3>
+             <div id="mainimage">
+          <img src="http://patrickemclean.com/images/paddy.png">
+          </div>
+          <p id="hypno">He is hypnotic gaze urges you to...</p>
+
+        <h3 id="initial-header">Join his Email List</h3>
 
             <!-- Begin MailChimp Signup Form -->
           <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
@@ -202,62 +297,14 @@
           </form>
           </div>
 
-          <h3>Books</h3>
-
-           <ul>
-              <a href="./books#ma">
-                <li >  
-                  <div class="bookcover">
-                    <img src="http://www.patrickemclean.com/images/cover_200xcopy.jpg">
-                  </div>
-                </li>
-              </a>
-
           
 
-              <a href="./books#evil">
-                <li >  
-                  <div class="bookcover">
-                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg">
-                  </div>
-                </li>
-              </a>
+            <h3>The Good Stuff</h3>
 
-                <a href="./books#hostile">
-                <li >  
-                  <div class="bookcover">
-                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HostileTakeover.jpg">
-                  </div>
-                </li>
-              </a>
 
-               <a href="./books#vampire">
-                <li >  
-                  <div class="bookcover">
-                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/Screenshot_4_30_13_9_19_PM.jpg">
-                  </div>
-                </li>
-              </a>
-
-            <a href="./books#unkillable">
-                <li >  
-                  <div class="bookcover">
-                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unkillablecover.jpg">
-                  </div>
-                </li>
-              </a>
-
-            </ul>  
-
-            <h3>Great Posts</h3>
 
             <ul>
-              <a href="./sonsofliteracy">
-                <li>
-                  <h4>The World's Most Dangerous Book Club?</h4>
-                  <p>Maybe, maybe not. But it's certainly got a badass logo.</p>
-                </li>
-              </a>
+            
               <a href="./2005/seanachaiintro">
                 <li>
                   <h4>The Seanachai (it means storyteller)</h4>
@@ -294,35 +341,8 @@
                   <p>Even War and Peace was written 25 minutes at time.</p>
                 </li>
               </a>
-              <a href="http://signalvnoise.com/posts/2904-forget-passion-focus-on-proces">
-                <li>
-                  <h4>Forget passion, focus on process</h4>
-                  <p>We can’t all be rock stars and ballerinas.</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/3124-give-it-five-minutes">
-                <li>
-                  <h4>Give it five minutes</h4>
-                  <p>Cool it, you hothead.</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/1325-acquire-taste">
-                <li>
-                  <h4>Acquire taste</h4>
-                  <p>Yes, you can develop an eye.</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/1061-why-we-skip-photoshop">
-                <li>
-                  <h4>Why we skip Photoshop</h4>
-                  <p>Step 1: Draw it. Step 2: Build it.</p>
-                </li>
-              </a>
-              <a href="http://signalvnoise.com/posts/439-four-letter-words">
-                <li>
-                  <h4>Four letter words</h4>
-                  <p>The worst kind of potty-mouth.</p>
-                </li>
+            
+              
               </a>
             </ul>
           </div>
@@ -334,13 +354,7 @@
 
     {% elseif meta.title == "Archive" %}
 
-    <header class="masthead">
 
-      <p>
-    You're reading the official blog of writer <a href="http://www.patrickemclean.com">Patrick E. McLean</a>
-  </p>
-
-</header>
 
  <body class="solopage">
     <table class="posts">
@@ -392,15 +406,11 @@
     {% endif %}
 
         <section class="footer-copyright">
+        
           <p>
-            Meet <a href="http://signalvnoise.com/writers/">the writers</a> of <a href="./Signal vs. Noise by Basecamp — Business, Design, Programming and the Web_files/Signal vs. Noise by Basecamp — Business, Design, Programming and the Web.html">Signal vs. Noise</a>.
-            If you like what you’re reading, check out <a href="http://basecamp.com/books">our best-selling books REWORK and REMOTE</a>.
+            Content copyright ©2005-2014 Patrick E. McLean</a>.
+            Subscribe to the <a href="http://feeds.feedburner.com/PatrickEMcLean">RSS</a>.
           </p>
-          <p>
-            Content copyright ©1999-2014 <a href="http://basecamp.com/">Basecamp</a>.
-            Subscribe to our <a href="http://feeds.feedburner.com/37signals/beMH">RSS</a>.
-          </p>
-          <p>Enjoy your <span data-day="">Friday</span>.</p>
         </section>
       </div>
     </div>
