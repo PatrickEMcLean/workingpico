@@ -438,7 +438,7 @@ a {
 
 .footer {
   border-top: 1px solid #CCC;
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
+  font-family: 'Libre Baskerville', serif;
   font-size: 1.1em; }
   .footer section {
     border-top: 1px solid #EEE;
@@ -541,32 +541,6 @@ a {
   @media only screen and (min-width: 768px) {
     .footer-copyright {
       font-size: .9em; } }
-
-body.missing header {
-  text-align: center; }
-  body.missing header h1 {
-    color: #444444;
-    font-family: "acta-display", Georgia, Times, serif;
-    font-size: 1.75em;
-    font-weight: 400;
-    letter-spacing: -1px;
-    line-height: 1.25em;
-    margin: 0 auto .5em; }
-    @media only screen and (min-width: 768) {
-      body.missing header h1 {
-        font-size: 2.813em; } }
-    body.missing header h1 em, body.missing header h1 em a {
-      color: #CCC;
-      font-style: normal; }
-    body.missing header h1 a {
-      color: #444444;
-      text-decoration: none;
-      transition: all 0.2s ease;
-      -moz-transition: all 0.2s ease;
-      -webkit-transition: all 0.2s ease; }
-      body.missing header h1 a:hover {
-        color: #5F6879; }
-
 
 
 
@@ -687,7 +661,7 @@ body.missing header {
 .home-latest-categories,
 .home-latest-writers {
   border-bottom: 2px solid #CCC;
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
+  font-family: 'Libre Baskerville', serif;
   margin-bottom: 2em;
   padding-bottom: 2em;
   margin-top: 2em; }
