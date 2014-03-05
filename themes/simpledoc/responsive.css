@@ -18,6 +18,11 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   font-family: 'Libre Baskerville', serif;
 }
 
+
+#disqus_thread {
+  padding-top: 3em;
+}
+
 .home-latest-writers blockquote {
   padding-top: 1em;
   padding-bottom: 1em;
@@ -562,225 +567,7 @@ body.missing header {
       body.missing header h1 a:hover {
         color: #5F6879; }
 
-.admin-login {
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-  margin-top: 10%;
-  width: 100%; }
-  .admin-login input[name="name"],
-  .admin-login input[name="password"] {
-    -webkit-box-sizing: border-box;
-    -moz-box-sizing: border-box;
-    box-sizing: border-box;
-    border-radius: 4px;
-    -moz-border-radius: 4px;
-    -webkit-border-radius: 4px;
-    transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -webkit-transition: all 0.2s ease;
-    border: 1px solid #CCC;
-    display: block;
-    font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-    font-size: 1.25em;
-    margin: .5em auto 0;
-    outline: none;
-    padding: .35em;
-    max-width: 480px;
-    width: 100%; }
-    .admin-login input[name="name"]:hover,
-    .admin-login input[name="password"]:hover {
-      border-color: #999999; }
-    .admin-login input[name="name"]:focus,
-    .admin-login input[name="password"]:focus {
-      box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
-      -moz-box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
-      -webkit-box-shadow: inset 0 2px 3px rgba(0, 0, 0, 0.2);
-      border-color: #666; }
-  .admin-login input[type="submit"] {
-    display: block;
-    font-size: 1.25em;
-    margin: 1em auto 0;
-    padding: .35em;
-    max-width: 480px;
-    width: 100%; }
-  .admin-login p {
-    margin-top: 3em;
-    text-align: center; }
 
-.admin-nav {
-  position: fixed;
-  text-align: right;
-  right: 1em;
-  top: 1em;
-  z-index: 37; }
-  .admin-nav ul {
-    display: inline-block;
-    list-style: none;
-    vertical-align: top; }
-
-.admin-nav-post {
-  border-radius: 5px;
-  -moz-border-radius: 5px;
-  -webkit-border-radius: 5px;
-  background-color: white;
-  border: 1px solid #CCC;
-  border-bottom-width: 2px;
-  color: #666;
-  font-size: .9em;
-  margin-right: .5em;
-  text-align: left; }
-  .admin-nav-post:hover {
-    cursor: default; }
-  .admin-nav-post:hover .admin-nav-post-option {
-    display: block; }
-  .admin-nav-post li {
-    padding: .5em 1em; }
-
-.admin-nav-post-button {
-  color: #666;
-  text-decoration: none; }
-  .admin-nav-post-button:hover {
-    background-color: #EEE !important;
-    color: black; }
-
-.admin-nav-post-option {
-  display: none;
-  text-decoration: none; }
-  .admin-nav-post-option:hover {
-    background-color: #477b96;
-    color: white; }
-
-.admin-nav-user {
-  font-size: .8em;
-  padding-top: .8em; }
-  .admin-nav-user li {
-    display: inline;
-    padding: 0 .1em; }
-  .admin-nav-user a {
-    color: #999; }
-  .admin-nav-user a:hover {
-    color: #477b96; }
-
-.admin-posts {
-  margin: 2em auto;
-  max-width: 680px; }
-
-.admin-posts-entry {
-  border-top: 1px solid #DDD;
-  margin: 0 auto;
-  padding-bottom: 1.5em;
-  padding-top: .5em; }
-  .admin-posts-entry h2 {
-    font-family: "acta-display", Georgia, Times, serif;
-    font-size: 1.25em;
-    margin-bottom: .5em; }
-  .admin-posts-entry p {
-    font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif; }
-
-.admin-posts-entry-draft {
-  background-color: #FFFFEE;
-  color: #999; }
-
-.composer .masthead {
-  display: none; }
-
-.composer-settings-status {
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif; }
-
-.composer-settings-date {
-  border-top: 2px solid #CCC;
-  margin: 1em auto;
-  padding-top: 1em;
-  text-align: center;
-  max-width: 660px; }
-  .composer-settings-date select {
-    display: inline-block;
-    font-size: 2em; }
-
-.composer-settings-status {
-  border-top: 1px solid #DDD;
-  margin: 1em auto 0;
-  padding-top: 1.5em;
-  text-align: center;
-  max-width: 660px; }
-  .composer-settings-status label {
-    display: inline-block;
-    margin: 0 .5em;
-    vertical-align: bottom; }
-  .composer-settings-status input[type="checkbox"] {
-    display: inline-block;
-    vertical-align: bottom; }
-
-.composer-post-options,
-.composer-new-post-options {
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-  margin-bottom: 1em;
-  padding-bottom: .5em;
-  text-align: center; }
-  .composer-post-options input, .composer-post-options p,
-  .composer-new-post-options input,
-  .composer-new-post-options p {
-    display: inline-block;
-    vertical-align: bottom; }
-  .composer-post-options input,
-  .composer-new-post-options input {
-    margin-right: .25em; }
-  .composer-post-options p,
-  .composer-new-post-options p {
-    padding-bottom: .45em; }
-
-.composer-new-post-options {
-  border-top: 1px solid #DDD;
-  margin: 0 auto 8em;
-  padding-top: 2em;
-  max-width: 660px; }
-
-.composer-delete {
-  color: red; }
-
-.composer-uploader {
-  border-top: 1px solid #DDD;
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-  margin: 0 auto 10em;
-  padding-top: 1em;
-  text-align: center;
-  max-width: 660px; }
-
-.composer-uploader-submit {
-  margin-top: 1em; }
-  .composer-uploader-submit input {
-    display: inline-block;
-    font-size: .9em;
-    vertical-align: middle; }
-  .composer-uploader-submit p {
-    display: inline-block;
-    font-size: .9em;
-    margin-bottom: .5em; }
-
-#attachment_upload,
-#photo_file {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-  border-radius: 3px;
-  -moz-border-radius: 3px;
-  -webkit-border-radius: 3px;
-  background-color: #EEE;
-  border: 1px solid #DDD;
-  margin-right: .25em;
-  margin-top: -0.25em;
-  padding: 1em; }
-
-#photo_file {
-  display: block;
-  margin: 4em auto 1em;
-  max-width: 660px;
-  width: 100%; }
-
-#attachments {
-  border-bottom: 1px solid #DDD;
-  margin-bottom: 1em;
-  padding-bottom: 1em;
-  text-align: left; }
 
 
 .page-introduction {
@@ -1493,6 +1280,7 @@ section.styleguide h3 {
       .post .longform p {
         font-size: 1em;
         line-height: 1.5em; } }
+
   .post .longform p {
     font-size: 1em;
     margin-bottom: .75em;
@@ -1500,13 +1288,46 @@ section.styleguide h3 {
   .post .longform p + p {
     text-indent: 0; }
 
-.post h2 {
-  padding-top: .75em;
+.post h2, h3 {
+    font-size: 1.75em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+
+  text-align: center;
+  font-style: italic;
+  font-weight: normal;
+
+}
+
+@media only screen and (max-width: 800px) {
+
+.post h2, h3 {
+    font-size: 1.33em;
+
+
+}
+
 }
 
 .content p  {
+
   font-size: 120%;
+
+ }
+@media only screen and (max-width: 800px) {
+
+  .content p  {
+
+  font-size: 100%;
+
+ }
+
 }
+
+
+
 
 .post-content .tomorrow-comment, .post-content pre .comment, .post-content pre .title {
   color: #8e908c; }
@@ -1556,263 +1377,3 @@ section.styleguide h3 {
     .post-content pre {
       margin: 1.5em auto;
       width: 640px; } }
-
-.post-comments {
-  border-top: 2px solid #CCC;
-  border-bottom: 1px solid #CCC;
-  margin: 1.5em auto 0;
-  padding: 1em 0 .5em;
-  width: 100%; }
-  @media only screen and (min-width: 800px) {
-    .post-comments {
-      width: 660px; } }
-
-.post-comments-info {
-  color: #555;
-  font-size: 1.05em;
-  font-weight: 400;
-  letter-spacing: 2px;
-  line-height: 1.65em;
-  margin: 0 auto;
-  text-align: center;
-  text-transform: uppercase;
-  word-break: hyphenate; }
-  .post-comments-info em {
-    letter-spacing: 0;
-    text-transform: none; }
-
-.post-comments-info-expandable {
-  color: #477b96;
-  cursor: pointer;
-  font-style: normal;
-  text-decoration: underline; }
-
-.post-comments-info-expanded {
-  cursor: default;
-  color: #555;
-  font-style: normal;
-  text-decoration: none; }
-
-.post-comments-info-admin {
-  zoom: 1;
-  border-bottom: 1px solid #EEE;
-  list-style: none;
-  margin: 0 auto .75em;
-  padding-bottom: .5em;
-  width: 100%; }
-  .post-comments-info-admin:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden; }
-  .post-comments-info-admin li {
-    display: inline;
-    text-align: center; }
-  .post-comments-info-admin a {
-    color: #CCC; }
-
-.post-comments-info-admin-starred a {
-  color: #FFDD00; }
-
-.post-comments-all {
-  display: none;
-  margin: 1em 0 0; }
-
-.post-comment {
-  border-bottom: 1px solid #EEE;
-  padding: 1.5em 0 .5em;
-  width: 100%; }
-  .post-comment:first-child {
-    border-top: 1px solid #EEE; }
-  .post-comment:last-child {
-    border-bottom: none; }
-  .post-comment:hover .post-comment-header-admin {
-    display: block; }
-
-.post-comment.basecamper {
-  border-radius: 1px;
-  -moz-border-radius: 1px;
-  -webkit-border-radius: 1px;
-  background: #FCF6E3;
-  border: 1px solid #EDE3C8 !important;
-  margin-left: -1em;
-  margin-top: -1px;
-  padding: 1em 1em .5em;
-  width: 100%; }
-  .post-comment.basecamper .post-comment-header-date {
-    background: url("/static/images/basecamper.png") 0 0 no-repeat;
-    color: #C6BB99;
-    margin-left: .25em;
-    padding: 3px 0 5px 30px; }
-    @media (min--moz-device-pixel-ratio: 1.3), (-o-min-device-pixel-ratio: 2.6 / 2), (-webkit-min-device-pixel-ratio: 1.3), (min-device-pixel-ratio: 1.3), (min-resolution: 1.3dppx) {
-      .post-comment.basecamper .post-comment-header-date {
-        background-image: url("/static/images/basecamper@2x.png");
-        background-size: 25px 20px; } }
-    .post-comment.basecamper .post-comment-header-date:before {
-      content: "Basecamp staff member "; }
-
-.post-comment.troll {
-  color: #CCC;
-  font-family: "Comic Sans MS", Arial;
-  font-size: .7em; }
-  .post-comment.troll:hover {
-    cursor: default; }
-  .post-comment.troll .post-comment-header-author {
-    background: url("/static/images/trollface.jpg") 0 0 no-repeat;
-    background-size: 40px 32px;
-    font-family: "Comic Sans MS", Arial;
-    margin-bottom: 10px;
-    padding: 5px 0 12px 45px; }
-  .post-comment.troll .post-comment-header-date {
-    color: #CCC;
-    font-family: "Comic Sans MS", Arial; }
-  .post-comment.troll .post-comment-body {
-    padding-bottom: .1em;
-    padding-left: 45px; }
-
-.post-comment-header {
-  font-family: "kepler-std", Georgia, Times, serif;
-  font-size: 1.2em;
-  -webkit-font-smoothing: antialiased;
-  font-weight: 700;
-  line-height: 1.2em;
-  margin: 0 0 .2em 0;
-  position: relative; }
-
-.post-comment-header-admin {
-  display: none;
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-  position: absolute;
-  right: 0;
-  top: 0; }
-  .post-comment-header-admin a {
-    transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -webkit-transition: all 0.2s ease;
-    font-size: .7em;
-    margin-right: .2em; }
-  .post-comment-header-admin b {
-    transition: all 0.2s ease;
-    -moz-transition: all 0.2s ease;
-    -webkit-transition: all 0.2s ease;
-    color: #999;
-    font-size: .7em;
-    font-weight: normal;
-    margin-right: .5em; }
-  .post-comment-header-admin .delete {
-    border-radius: 50%;
-    -moz-border-radius: 50%;
-    -webkit-border-radius: 50%;
-    background-color: red;
-    color: white;
-    display: inline-block;
-    font-size: .35em;
-    height: 1.5em;
-    line-height: 1.75em;
-    padding: .1em;
-    text-align: center;
-    width: 1.5em; }
-    .post-comment-header-admin .delete:hover {
-      background-color: white;
-      color: red; }
-
-.post-comment-header-author {
-  display: inline;
-  font-family: "kepler-std", Georgia, Times, serif; }
-
-.post-comment-header-date {
-  color: #999;
-  font-size: .8em;
-  font-weight: 300; }
-
-.post-comment-body {
-  font-size: 1.15em;
-  -webkit-font-smoothing: antialiased;
-  font-weight: 400;
-  line-height: 1.25em; }
-  .post-comment-body p {
-    margin-bottom: .5em; }
-  @media only screen and (min-width: 768px) {
-    .post-comment-body {
-      font-size: 1.25em;
-      -webkit-font-smoothing: subpixel-antialiased;
-      font-weight: 300;
-      line-height: 1.5em; } }
-
-.post-comments-form {
-  display: none;
-  border-top: 1px solid #EEE; }
-
-.post-comments-form,
-.post-comments-edit-form {
-  zoom: 1;
-  padding: 1em 0 0; }
-  .post-comments-form:after,
-  .post-comments-edit-form:after {
-    content: ".";
-    display: block;
-    height: 0;
-    clear: both;
-    visibility: hidden; }
-  .post-comments-form b,
-  .post-comments-edit-form b {
-    display: none; }
-  .post-comments-form h2,
-  .post-comments-edit-form h2 {
-    color: #555;
-    font-size: 1.05em;
-    font-weight: 400;
-    letter-spacing: 2px;
-    line-height: 1.65em;
-    margin: 0 auto .75em;
-    text-align: center;
-    text-transform: uppercase;
-    word-break: hyphenate; }
-    .post-comments-form h2 em,
-    .post-comments-edit-form h2 em {
-      letter-spacing: 0;
-      text-transform: none; }
-  .post-comments-form textarea,
-  .post-comments-edit-form textarea {
-    color: #333;
-    font-size: 1.15em; }
-  .post-comments-form ::-webkit-input-placeholder,
-  .post-comments-edit-form ::-webkit-input-placeholder {
-    color: #999; }
-  .post-comments-form :-moz-placeholder,
-  .post-comments-edit-form :-moz-placeholder {
-    color: #999; }
-  .post-comments-form :-ms-input-placeholder,
-  .post-comments-edit-form :-ms-input-placeholder {
-    color: #999; }
-
-.post-comments-form-troll {
-  display: block;
-  margin-bottom: 1.5em; }
-
-.post-comments-form-note {
-  color: #777;
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif; }
-  .post-comments-form-note code {
-    background-color: #EEE;
-    border: 1px solid #CCC;
-    display: inline-block;
-    font-family: Courier;
-    font-size: .7em;
-    margin-right: .1em;
-    padding: .25em .5em;
-    vertical-align: bottom; }
-  .post-comments-form-note p {
-    line-height: 1.25em;
-    margin-bottom: 1em; }
-
-.post-comments-form-submit {
-  font-family: "ProximaNova", "freight-sans-pro", Helvetica, Arial, sans-serif;
-  margin-top: 2em; }
-  .post-comments-form-submit .button-submit {
-    display: inline-block;
-    margin-bottom: 1em;
-    margin-top: -0.75em;
-    padding: .5em 1em;
-    vertical-align: top; }
