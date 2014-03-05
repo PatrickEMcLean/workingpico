@@ -72,13 +72,15 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   font-family: 'Libre Baskerville', serif;
 }
 
+
+
 .spacer {
   margin-top: 3.5em;
   margin-bottom: 3em;
    color: #333333;
 }
 
-.post-header h4{
+.post-header h4 {
   margin-top: 1.5em;
   font-weight: normal;
 }
@@ -130,7 +132,7 @@ p {
  }
 
 
-.solopage table,ol {
+.solopage table, ol, ul {
   margin-bottom: 2em;
   padding-left: 5em;
   padding-top: 1.5em;
