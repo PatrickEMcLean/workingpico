@@ -4,22 +4,23 @@ date: 2011-04-08 00:12:51+00:00
 title: Words Patrick Likes 
 */
 
-A series of short essays on words that tickled my fancy in 2011.
+### A series of short essays on words that tickled my fancy in 2011.
 
-* [Amortize](#amortize)
-* [Ataraxis](#Ataraxis)
-* [Bowels](#Bowels)
-* [Defenestration](#Defenestration)
-* [e.g.](#eg)
-* [Flange](#Flange)
-* [Foment](#Foment)
-* [Fungible](#Fungible)
-* [Hamper](#Hamper)
-* [Kerfuffle](#Kerfuffle)
-* [Lurking](#Lurking)
-* [Mallet](#Mallet)
-* [Peasant](#Peasant)
-* [Wingnut](#Wingnut)
+
+[Amortize](#amortize),
+[Ataraxis](#Ataraxis),
+[Bowels](#Bowels),
+[Defenestration](#Defenestration),
+[e.g.](#eg),
+[Flange](#Flange),
+[Foment](#Foment),
+[Fungible](#Fungible),
+[Hamper](#Hamper),
+[Kerfuffle](#Kerfuffle),
+[Lurking](#Lurking),
+[Mallet](#Mallet),
+[Peasant](#Peasant) and
+[Wingnut](#Wingnut).
 
 
 

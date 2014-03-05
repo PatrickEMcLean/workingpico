@@ -8,7 +8,7 @@ Title: E-book Pricing and the Elasticity of Demand
 
 *this was a guest post  that originally appeared on the [Creative Penn](http://www.thecreativepenn.com/‎)*
 
-As a writer raised by Economists, I have some perspective that other's don't have, and maybe don't want. (There's a reason it's called the dismal science after all.) But when approaching the question of how to price an e-book, sound economic theory (not that macroeconomic crap that everybody is currently lying their ass off about) can lend some interesting perspective.
+As a writer raised by Economists, I have some perspective that others don't have, and maybe don't want. (There's a reason it's called the dismal science after all.) But when approaching the question of how to price an e-book, sound economic theory (not that macroeconomic crap that everybody is currently lying their ass off about) can lend some interesting perspective.
 
 ### Price vs. Cost
 

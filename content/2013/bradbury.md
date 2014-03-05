@@ -2,7 +2,9 @@
 Author: Patrick
 Date: 2012-06-06
 Title: RIP Ray Bradbury: There Was Blood on Your Gloves When You Hung them Up.
+Image: http://www.patrickemclean.com/images/ray.jpg
 */
+
 
 <div class="center big">
 <img src="http://www.patrickemclean.com/images/ray.jpg">

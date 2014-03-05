@@ -1,7 +1,6 @@
 /*
 Title: Books
 Author: Patrick
-kind: video
 
 */
 
@@ -19,7 +18,7 @@ kind: video
 ### [The Merchant Adventurer](http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1DM) 
 
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/Merchant-Adventurer-Patrick-E-McLean-ebook/dp/B00HRLDBPG"><img src="http://www.patrickemclean.com/images/cover_200xcopy.jpg"></a>
 
@@ -45,7 +44,7 @@ An artful, satire of dungeon crawls and cRPG's, the Merchant Adventurer is part 
 
 
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/How-Succeed-Evil-ebook/dp/B00589W1D"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg"></a>
 
@@ -72,7 +71,7 @@ Inevitably, Edwin’s unique clientele lead him into direct conflict with the gr
 ### [Hostile Takeover](http://www.amazon.com/Hostile-Takeover-Succeed-Evil-ebook/dp/B008FK93J6) 
 
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/Hostile-Takeover-Succeed-Evil-ebook/dp/B008FK93J6"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HostileTakeover.jpg"></a>
 
@@ -95,7 +94,7 @@ If you’ve ever had a job you hated. If you’ve ever secretly rooted for Lex L
 <a id="vampire"></a>
 ### [Consultation With A Vampire](http://www.amazon.com/Consultation-Vampire-Succeed-Evil-ebook/dp/B006XY68Y4)
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/Consultation-Vampire-Succeed-Evil-ebook/dp/B006XY68Y4"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/Screenshot_4_30_13_9_19_PM.jpg"></a>
 
@@ -124,7 +123,7 @@ _Novella._
 <a id="unkillable"></a>
 ### [Unkillable](http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW)
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/Unkillable-ebook/dp/B004EEPMTW"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unkillablecover.jpg"></a>
 
@@ -153,7 +152,7 @@ _Novella._
 ### [Stories I Told Myself](http://www.amazon.com/Stories-I-Told-Myself-ebook/dp/B0048EKJWI)
 
 
-<div class="aside right clear">
+<div class="aside right clear bookcover">
 
 <a href="http://www.amazon.com/Stories-I-Told-Myself-ebook/dp/B0048EKJWI"><img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/StoriesCover.jpg"></a>
 

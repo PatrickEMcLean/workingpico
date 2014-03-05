@@ -1,0 +1,294 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
+	
+	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+{% if meta.description %}
+	<meta name="description" content="{{ meta.description }}"> 
+{% endif %}
+
+{% if meta.robots %}
+	<meta name="robots" content="{{ meta.robots }}">
+{% endif %}
+	
+	
+	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
+
+	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+
+	<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+	
+	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
+
+	<link rel=”alternate” type=”application/rss+xml” title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+
+	<link rel=”alternate” type="application/atom+xml"
+	 title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
+	<script type="text/javascript">
+
+	$.bigfoot();
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24332471-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+    <!-- Favicon
+    ================================================== -->
+    <link rel="shortcut icon" href="./images/favicon.ico">
+    <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href=".images/apple-touch-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="./images/apple-touch-icon-114x114.png">
+
+	
+</head>
+
+
+<body>
+
+
+
+
+
+
+	<header id="header">
+
+
+
+
+		<div class="inner">
+			<div class="headertype">
+				<div id="headersubscribe">Why not <a href="{{ base_url }}/subscribe">SUBSCRIBE</a> to</div>
+				THE OFFICIAL-LOOKING WEBSITE OF WRITER
+			</div>
+			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
+
+			<div class="headertype">
+			
+
+				<a href="{{ base_url }}/about">ABOUT </a>| <a href="{{ base_url }}/archive">ARCHIVE </a>| <a href="{{ base_url }}/contact">CONTACT </a>| <a href="{{ base_url }}/books">BOOKS </a>| <a href="{{ base_url }}/speaking">SPEAKING/TEACHING </a>  
+			</div>
+
+				<div id="headersearch">
+
+
+			<script>
+			  (function() {
+			    var cx = '000518898980765515244:8nss_auknps';
+			    var gcse = document.createElement('script');
+			    gcse.type = 'text/javascript';
+			    gcse.async = true;
+			    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+			        '//www.google.com/cse/cse.js?cx=' + cx;
+			    var s = document.getElementsByTagName('script')[0];
+			    s.parentNode.insertBefore(gcse, s);
+			  })();
+			</script>
+			<gcse:search></gcse:search>
+		</div>
+
+		</div>
+	</header>
+
+
+
+	<section id="content">
+
+	
+
+			<div class="inner clearfix">
+
+		{% if is_front_page %}
+	
+	
+	
+	
+
+		<div id="latestpost">
+		
+		
+
+			
+			{% set a=0 %}
+			{% for page in pages if page.date %}
+				{% if a==0 %} 
+					{% if page.author != "Video" %}
+						{% set a=1 %} 
+						<!-- <div class="tinydate"> {{ page.date }} </div> -->
+						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
+						{{ page.content }}
+						<a class="red" href="{{ page.url }}#comments"><em>Comments?</em></a>
+
+					{% endif %}
+				{% endif %}
+
+		
+			{% endfor %}
+
+		
+		</div>
+
+
+
+		<h3>Last 10 Posts</h3>
+			<hr>
+		<div class="posts">
+
+				<table class="poststable">
+					{% for page in pages|slice(0, 10) if page.date %}
+					
+					{% if (page.author != "Video") %}
+
+				   	<tr>
+
+				    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
+				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+				    </tr>
+
+				    {% endif %}
+				    {% endfor %}
+
+
+				    	<tr>
+
+				    	<td></td> 
+				    	<td class="title"><a href="./archive">Archive</a></td>
+
+				    </tr>
+
+
+				</table>
+
+		</div>
+
+
+		{% elseif meta.title == "Archive" %}
+
+
+		<table class="posts">
+					{% for page in pages if  page.date and (page.author != "video")  %}
+					
+				   	<tr>
+
+				    	<td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
+				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+				    </tr>
+				    {% endfor %}
+				</table>
+
+
+		{% elseif meta.title == "Writing Videos" %}
+
+		<h1>Writing With Patrick</h1>
+
+			<table class="videotable">
+
+				{% for page in pages if page.author == "Video" %}
+
+			   		<tr>
+			    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
+			    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+			    	</tr>
+			    
+			    {% endfor %}
+
+			</table>
+
+		{% else %}
+
+		{% if meta.title %}
+			<h1>{{ meta.title }}</h1>
+		{% endif %}
+
+		{{ content }}
+
+		</div>
+
+		{% endif %}
+
+
+
+		</div>
+	</section>
+	
+	<footer id="footer">
+		<div class="inner clearfix">
+
+
+
+{% if is_front_page %}
+
+	<hr>
+
+	<div class="subscribe">If you've made it this far, why not <a href="./subscribe">subscribe?</a></div> <br>
+
+<div class="searchblob">
+
+
+<script>
+  (function() {
+    var cx = '000518898980765515244:8nss_auknps';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+
+
+
+</div>
+</div>
+
+{% else %}
+
+<hr>
+<div class="subscribe">If you've made it this far, why not <a href="{{ base_url }}/subscribe">subscribe?</a></div> <br>
+
+<a name="comments"></a> 
+
+
+	<div id="disqus_thread"></div>
+    <script type="text/javascript">
+        
+        var disqus_shortname = 'patrickemclean'; // required: replace example with your forum shortname
+
+        /* * * DON'T EDIT BELOW THIS LINE * * */
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
+{% endif %}
+ 
+		</div>
+
+
+	</footer>
+
+<!-- https://app.hellobar.com/ 
+
+    <script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/a1a4b159131cd1bea47acdca5893c82aaa2acae7.js"></script> -->
+</body>
+</html>

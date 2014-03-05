@@ -32,7 +32,7 @@ So, for the first book, I'm thinking of ["The Score" by Richard Stark](http://ww
 
 ## Wait, Graphic Novel?
 
-<div class="vertheroimage">
+<div class="horizimage">
 <img src="http://violentworldofparker.com/wordpress/wp-content/uploads/2009/03/huntersketch.jpg"  />
 </div>
 

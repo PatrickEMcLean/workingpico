@@ -1,37 +1,46 @@
 <!DOCTYPE html>
-<html lang="en" class="no-js">
+<html lang="en">
 <head>
-	<meta charset="utf-8" />
-	<meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0" />
-	
-	<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+
+
+  <meta charset="utf-8" />
+
+  
+  <meta name="viewport" id="viewport" content="width=device-width,minimum-scale=1.0,maximum-scale=10.0,initial-scale=1.0">
+
+<title>{% if meta.title %}{{ meta.title }} | {% endif %}{{ site_title }}</title>
+
 {% if meta.description %}
-	<meta name="description" content="{{ meta.description }}"> 
+  <meta name="description" content="{{ meta.description }}"> 
 {% endif %}
+
 
 {% if meta.robots %}
-	<meta name="robots" content="{{ meta.robots }}">
+  <meta name="robots" content="{{ meta.robots }}">
 {% endif %}
-	
-	
-	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/style.css" type="text/css" />
 
-	<link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+  <link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
+    
+    <link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
 
-	<link href='http://fonts.googleapis.com/css?family=Libre+Baskerville:400,700,400italic' rel='stylesheet' type='text/css'>
-	
-	<link href='http://fonts.googleapis.com/css?family=Old+Standard+TT:400,400italic,700' rel='stylesheet' type='text/css'> 
+    <link rel=”alternate” type=”application/rss+xml” title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
 
-	<link rel=”alternate” type=”application/rss+xml” title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+    <link rel=”alternate” type="application/atom+xml"
+     title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
 
-	<link rel=”alternate” type="application/atom+xml"
-	 title=”Patrick E. McLean (RSS 2.0)” href=”http://feeds.feedburner.com/PatrickEMclean” />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
+    <script type="text/javascript"></script>
 
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-	<script type="text/javascript" src="{{ theme_url }}/bigfoot.js"></script>
-	<script type="text/javascript">
 
-	$.bigfoot();
+      <link href="{{ theme_url }}/responsive.css" media="screen" rel="stylesheet" type="text/css">
+     
+
+  <link rel="stylesheet" href="{{ theme_url }}/stylesheets/bigfoot-default.css" type="text/css" />
+
+  <script type="text/javascript">
+
+  $.bigfoot();
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', 'UA-24332471-1']);
   _gaq.push(['_trackPageview']);
@@ -44,221 +53,356 @@
 
 </script>
 
-    <!-- Favicon
+  <!-- Favicon
     ================================================== -->
     <link rel="shortcut icon" href="./images/favicon.ico">
     <link rel="apple-touch-icon" sizes="57x57" href="./images/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="72x72" href=".images/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="114x114" href="./images/apple-touch-icon-114x114.png">
 
-	
+
+
 </head>
-<body>
 
 
 
 
 
+  <body class="home">
+
+    <header class="masthead">
+
+<ul>
+
+</ul>
+
+      <table class="books">
+            
+              <tr>
+              <td> 
+                  <a href="./books#ma">
+               
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/images/cover_200xcopy.jpg">
+                  </div>
+               
+              </a>
+
+              </td>
+              <td>
+
+                   <a href="./books#evil">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HTSIEcoverimage.jpg">
+                  </div>
+                
+              </a>
+
+              </td>
+
+
+              <td> 
+                    <a href="./books#hostile">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/HostileTakeover.jpg">
+                  </div>
+                
+              </a>
+              </td>
+
+              <td>
+
+               <a href="./books#vampire">
+                
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/Screenshot_4_30_13_9_19_PM.jpg">
+                  </div>
+                
+              </a>
+
+        
+
+              </td> 
+
+              <td>
+
+
+            <a href="./books#unkillable">
+                 
+                  <div class="bookcover">
+                    <img src="http://www.patrickemclean.com/wp-content/uploads/2012/05/unkillablecover.jpg">
+                  </div>
+                
+              </a>
+
+              </td>
+
+
+            </tr>
+          </ul>
+            </table>
+
+  
+    </header>
 
 
 
-	<header id="header">
+    <div class="container">
+      <div class="content">
+          
 
+        <header class="page-introduction">
+         
+          <h1><a href="{{ base_url }}">Patrick E. McLean</a></h1>
+          <h2>is an author and copywriter. His most recent book is <a href="./merchantadventurer">&#8220;The Merchant Adventurer&#8221;</a>. He also has a nice <a href="http://www.behance.com/patrickemclean">portfolio</a>. 
 
+        
+          </h2>
 
-
-		<div class="inner clearfix">
-			<div class="headertype">
-				<div id="headersubscribe">Why not <a href="{{ base_url }}/subscribe">SUBSCRIBE</a> to</div>
-				THE OFFICIAL-LOOKING WEBSITE OF WRITER
-			</div>
-			<h1><a href="{{ base_url }}">{{ site_title }}</a></h1>
-
-			<div class="headertype">
-			
-
-				<a href="{{ base_url }}/about">ABOUT </a>| <a href="{{ base_url }}/archive">ARCHIVE </a>| <a href="{{ base_url }}/contact">CONTACT </a>| <a href="{{ base_url }}/books">BOOKS </a>| <a href="{{ base_url }}/speaking">SPEAKING/TEACHING </a>  
-			</div>
-
-				<div id="headersearch">
-
-
-			<script>
-			  (function() {
-			    var cx = '000518898980765515244:8nss_auknps';
-			    var gcse = document.createElement('script');
-			    gcse.type = 'text/javascript';
-			    gcse.async = true;
-			    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-			        '//www.google.com/cse/cse.js?cx=' + cx;
-			    var s = document.getElementsByTagName('script')[0];
-			    s.parentNode.insertBefore(gcse, s);
-			  })();
-			</script>
-			<gcse:search></gcse:search>
-		</div>
-
-		</div>
-	</header>
-
-	<section id="content">
-
-
-			<div class="inner clearfix">
-		{% if is_front_page %}
-	
-	
-	
-	
-
-		<div id="latestpost">
-		
-
-			
-			{% set a=0 %}
-			{% for page in pages if page.date %}
-				{% if a==0 %} 
-					{% if page.author != "Video" %}
-						{% set a=1 %} 
-						<!-- <div class="tinydate"> {{ page.date }} </div> -->
-						<h1><a href="{{ page.url }}">{{ page.title }}</a></h1>
-						{{ page.content }}
-						<a class="red" href="{{ page.url }}#comments"><em>Comments?</em></a>
-
-					{% endif %}
-				{% endif %}
-
-		
-			{% endfor %}
-
-		
-		</div>
-
-
-		<h3>Last 10 Posts</h3>
-			<hr>
-		<div class="posts">
-
-				<table class="poststable">
-					{% for page in pages|slice(0, 10) if page.date %}
-					
-					{% if (page.author != "Video") %}
-
-				   	<tr>
-
-				    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
-				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-
-				    </tr>
-
-				    {% endif %}
-				    {% endfor %}
-
-				    	<tr>
-
-				    	<td></td> 
-				    	<td class="title"><a href="./archive">Archive</a></td>
-
-				    </tr>
-
-
-				</table>
-
-		</div>
-
-
-		{% elseif meta.title == "Archive" %}
-
-
-		<table class="posts">
-					{% for page in pages if  page.date and (page.author != "video")  %}
-					
-				   	<tr>
-
-				    	<td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
-				    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-
-				    </tr>
-				    {% endfor %}
-				</table>
-
-
-		{% elseif meta.title == "Writing Videos" %}
-
-		<h1>Writing With Patrick</h1>
-
-			<table class="videotable">
-
-				{% for page in pages if page.author == "Video" %}
-
-			   		<tr>
-			    	<td><span class="postdate">{{ page.date|date("m/d") }}</span></td> 
-			    	<td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
-			    	</tr>
-			    
-			    {% endfor %}
-
-			</table>
-
-		{% else %}
-
-		{% if meta.title %}
-			<h1>{{ meta.title }}</h1>
-		{% endif %}
-
-		{{ content }}
-
-		</div>
-
-		{% endif %}
-
-
-
-		</div>
-	</section>
-	
-	<footer id="footer">
-		<div class="inner clearfix">
-
-
+        </header>
 
 {% if is_front_page %}
 
-	<hr>
+        <section class="home-content">
 
-	<div class="subscribe">If you've made it this far, why not <a href="./subscribe">subscribe?</a></div> <br>
+          <div class="home-latest">
+            <div class="home-latest-posts">
+              <h3>Latest posts</h3>
 
-<div class="searchblob">
+              <div class="home-latest-posts-stream">
+                
+
+     {% for page in pages|slice(0, 4) if page.date %}
+          
+          {% if (page.author != "Video") %}
+
+            <article class="post">  
+
+              <header class="post-header">
+
+                <h4>
+              {{ page.date|date("m/d") }} 
+              </h4>
+
+               <h1>
+        
+                <a href="{{ page.url }}">{{ page.title }}</a>
+              </h1>
+               </header>
+
+             
+
+           <div class="post-content">
+              {{ page.excerpt }}
+
+              <a href="{{ page.url }}"> continue reading </a>
+
+            </div>
+
+  
+    </article>
+           
+          {% endif %}
+      {% endfor %}
+           
+                
+          
+
+                
+              
+          </div>
+          </div>
+
+             <div class="home-latest-search">
+              <h3>Search</h3>
+                <script>
+                  (function() {
+                    var cx = '000518898980765515244:8nss_auknps';
+                    var gcse = document.createElement('script');
+                    gcse.type = 'text/javascript';
+                    gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+                        '//www.google.com/cse/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0];
+                    s.parentNode.insertBefore(gcse, s);
+                  })();
+                </script>
+                <gcse:search></gcse:search>
+          
+
+              
+            </div>
 
 
-<script>
-  (function() {
-    var cx = '000518898980765515244:8nss_auknps';
-    var gcse = document.createElement('script');
-    gcse.type = 'text/javascript';
-    gcse.async = true;
-    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
-        '//www.google.com/cse/cse.js?cx=' + cx;
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(gcse, s);
-  })();
-</script>
-<gcse:search></gcse:search>
+            <div class="home-latest-continue">
+              <h3>Everything</h3>
+              <p><a href="./archive">View the complete archive</a> 
+            </div>
+
+         
+
+         <!--    <div class="home-latest-categories">
+             
+
+              <ul>
+                
+                  <li><a href="http://signalvnoise.com/business">Business</a></li>
+                
+                  <li><a href="http://signalvnoise.com/design">Design</a></li>
+                
+                  <li><a href="http://signalvnoise.com/programming">Programming</a></li>
+                
+                  <li><a href="http://signalvnoise.com/support">Support</a></li>
+                
+                  <li><a href="http://signalvnoise.com/sysadmin">Sysadmin</a></li>
+                
+                  <li><a href="http://signalvnoise.com/writing">Writing</a></li>
+                
+                <li><a href="http://signalvnoise.com/popular">Best of</a></li>
+                <li><a href="http://signalvnoise.com/archives">Everything</a></li>
+              </ul>
+            </div> -->
+
+            <div class="home-latest-writers">
+              <h3>About Patrick</h3>
+              <p>I stole this from Orwell, but I'm not sure I can say it any better.</p>
+              <blockquote>"So long as I remain alive and well I shall continue to feel strongly about prose style, to love the surface of the earth, and to take a pleasure in solid objects and scraps of useless information. It is no use trying to suppress that side of myself. The job is to reconcile my ingrained activities and dislikes with the essentially public, non-individual activities that this age forces on all of us."</blockquote>
+
+              For all the resume-type bits, <a href="http://patrickemclean.com/about">click here.</a></p>
+            </div>
+          </div>
+
+          <div class="home-best">
+
+             <div id="mainimage">
+          <img src="http://patrickemclean.com/images/paddy.png">
+          </div>
+          <p id="hypno">He is hypnotic gaze urges you to...</p>
+
+        <h3 id="initial-header">Join his Email List</h3>
+
+            <!-- Begin MailChimp Signup Form -->
+          <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
+
+
+          <div id="mc_embed_signup">
+          <form action="http://patrickemclean.us1.list-manage2.com/subscribe/post?u=602066dab95a5d4df9a118155&amp;id=0e4f154103" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+
+            <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+            <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+          </form>
+          </div>
+
+          
+
+            <h3>The Good Stuff</h3>
+
+
+
+            <ul>
+            
+              <a href="./2005/seanachaiintro">
+                <li>
+                  <h4>The Seanachai (it means storyteller)</h4>
+                  <p>Patrick's podcast. Impossible to spell, pronounce or not to love.</p>
+                </li>
+              </a>
+              <a href="./2012/peptalk">
+                <li>
+                  <h4>The Five Minute Writing Pep Talk</h4>
+                  <p>Because we all need one from time to time.</p>
+                </li>
+              </a>
+              <a href="./2012/storymaps">
+                <li>
+                  <h4>Storymaps</h4>
+                  <p>A Way to Visualize the Hidden Structure of Stories</p>
+                </li>
+              </a>
+              <a href="./writingresouces">
+                <li>
+                  <h4>good words (right order)</h4>
+                  <p>A collection of resources to help you with your writing.</p>
+                </li>
+              </a>
+              <a href="./2010/ideas">
+                <li>
+                  <h4>Where Do Ideas Come From?</h4>
+                  <p>An Ignite talk on ideation.</p>
+                </li>
+              </a>
+              <a href="./2009/pomodoroforwriters">
+                <li>
+                  <h4>The Pomodoro Technique for Writers</h4>
+                  <p>Even War and Peace was written 25 minutes at time.</p>
+                </li>
+              </a>
+            
+              
+              </a>
+            </ul>
+          </div>
+        </section>
 
 
 
 
-</div>
+
+  {% elseif meta.title == "Archive" %}
+
+
+
+   <body class="solopage">
+      <table class="posts">
+            {% for page in pages if  page.date and (page.author != "video")  %}
+            
+              <tr>
+
+                <td><span class="postdate">{{ page.date|date("m/d/y") }}</span></td> 
+                <td class="title"><a href="{{ page.url }}">{{ page.title }}</a></td>
+
+              </tr>
+              {% endfor %}
+          </table>
+  </div>
+  </body>
 
 {% else %}
 
-<hr>
-<div class="subscribe">If you've made it this far, why not <a href="{{ base_url }}/subscribe">subscribe?</a></div> <br>
+ <body class="perma solopage">
+
+    <header class="masthead">
+
+      <p>
+    You're reading the official blog of writer <a href="http://www.patrickemclean.com">Patrick E. McLean</a>
+  </p>
+
+</header>
+
+
+    <div class="container">
+      <div class="content">
+        <article class="post instapaper_body">
+  
+    <header class="post-header">
+
+  
+
+    {% if meta.title %}
+      <h1>{{ meta.title }}</h1>
+    {% endif %}
+
+</header>
+
+    {{ content }}
+
 
 <a name="comments"></a> 
 
 
-	<div id="disqus_thread"></div>
+  <div id="disqus_thread"></div>
     <script type="text/javascript">
         
         var disqus_shortname = 'patrickemclean'; // required: replace example with your forum shortname
@@ -273,15 +417,32 @@
     <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
     <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
-{% endif %}
  
-		</div>
+    </div>
 
 
-	</footer>
+  </div class="container">
+      
 
-<!-- https://app.hellobar.com/ 
 
-    <script type="text/javascript" src="//s3.amazonaws.com/scripts.hellobar.com/a1a4b159131cd1bea47acdca5893c82aaa2acae7.js"></script> -->
+      </div class="content">
+
+
 </body>
-</html>
+
+
+
+
+
+    {% endif %}
+
+        <section class="footer-copyright">
+        
+          <p>
+            Content copyright ©2005-2014 Patrick E. McLean</a>.
+            Subscribe to the <a href="http://feeds.feedburner.com/PatrickEMcLean">RSS</a>.
+          </p>
+        </section>
+      </div>
+    </div>
+</body></html>

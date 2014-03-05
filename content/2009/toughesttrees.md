@@ -28,12 +28,6 @@ Hosen-ji in all it's unkillable glory.
 
 This Ginkgo tree is called Hosen-Ji, because anything that lives through an atomic explosion gets a nickname in Japan. Hosen-Ji survived, but the temple it was planted next to didn't make it. When the temple was rebuilt, it was suggested that the tree might be transplanted to make construction easier. This suggestion was quickly shot down. Instead of moving the tree, they designed the temple around it. This might be because they were Buddhists and revered life. Then again, it might be because anything that is tough enough to survive a nuclear explosion is something you don't want to mess with. It's been exposed to Gamma Rays. Who knows what happens when it gets angry?
 
-<div class="aside left clear">
-
-<img src="http://sendreinforcements.com/wp-content/uploads/2009/10/Nov_ginko.jpg">
-
-</div>
-
 But the weirdness of the Ginkgo tree does not end there. It's a profoundly odd plant. So odd, in fact that it's in it's very own Division in the Plant Kingdom. And the Ginkgo Biloba is the only member of it's of Division. So where the Willow Oak in my back yard is classified like this:
 
 
@@ -45,7 +39,7 @@ But the weirdness of the Ginkgo tree does not end there. It's a profoundly odd p
 	Genus: Quercus
 	Family: Fagaceae
 	Section: Lobatae
-	Species Phellos
+	Species: Phellos
 
 The Ginkgo has this odd classification:
 
