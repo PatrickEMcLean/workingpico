@@ -23,6 +23,18 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
   padding-top: 3em;
 }
 
+
+.stuff {
+  padding-left:0;
+  margin-left: 0;
+}
+
+.home-best ul {
+  padding-left:none;
+  margin-left:none;
+}
+
+
 .home-latest-writers blockquote {
   padding-top: 1em;
   padding-bottom: 1em;
