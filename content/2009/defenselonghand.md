@@ -5,12 +5,6 @@ Date: 2009-04-08
 
 */
 
-[![](http://www.patrickemclean.com/wp-content/uploads/2009/01/handwriting.jpg)](http://www.patrickemclean.com/wp-content/uploads/2009/01/handwriting.jpg)
-
-
-[podcast audio](http://www.theseanachai.com/episodes/defenselonghand.mp3)
-
-
 
 I like technology. A lot. But I'm not too sure how technology feels about me. It may be my faithful friend and boon companion -- then again, it may just be pretending to be my friend so it can date my sister. Especially when it comes to writing.
 
@@ -44,7 +38,7 @@ But, to paraphrase Emerson, all of this is small account compared to what lies w
 
 In a way, the problem with writing is, the same problem of hitting a golf ball. Both the page and the ball just sit there. And when you write you have (theoretically) a lifetime to rewrite it until you get it right.
 
-But all that time is simply a field day for the critical part of your brain. Just the time it needs to jump in and muck everything up. This part of the brain needs something to critize. After all, that's it's job. But the critical function is not creative. You be critical about anything. And no matter how absurd you are being, you will find ammo to support you. Try running Hamlet through a Microsoft Grammar check.Try running Hamlet and leaving all the scenes in.
+But all that time is simply a field day for the critical part of your brain. Just the time it needs to jump in and muck everything up. This part of the brain needs something to criticize. After all, that's it's job. But the critical function is not creative. You be critical about anything. And no matter how absurd you are being, you will find ammo to support you. Try running Hamlet through a Microsoft Grammar check.Try running Hamlet and leaving all the scenes in.
 
 But the point is, there's no possible way to get it right, if you don't first get it down. And as much as I know this -- I mean know it in my bones, as carpenter knows his measuring tape -- it still doesn't help.
 
@@ -54,13 +48,15 @@ But the point is, there's no possible way to get it right, if you don't first ge
 
 
 
-That the entire device of anthropormophizing the critcal side of my nature in this essay is a bad idea. And that I just mispelled critical. And I shouldn't have started two sentences in a row with "and".
-
-But when I write longhand, the experience is different. I think it is because that critical part of my brain is busy picking apart my handwriting (which truly is horrible) instead of my prose. It tells me that my handwriting is atrocious. And it gets the satisfaction of being right. But who cares? While it's busy the words are just rushing out. And they're not henpecked or second-guessed before they've had time to cool. They exist in a flawed, but pure state. This kind of prose has a feral power that seems to be lacking from the things I type. Maybe that's not it, maybe it's just harder to get my head in that effortless writing space when I use a keyboard. But whatever the case is, writing longhand makes it easier for me to reach a writer's high.
+That the entire device of anthropomorphizing the critcal side of my nature in this essay is a bad idea. And that I just mispelled critical. And I shouldn't have started two sentences in a row with "and".
 
 <div class="aside right clear">In fact, Ernest Hemingway wrote all his first drafts in pencil because he said it, "gave him another chance to get it right," when he typed it up. 
 
-</div>	
+</div>  
+
+But when I write longhand, the experience is different. I think it is because that critical part of my brain is busy picking apart my handwriting (which truly is horrible) instead of my prose. It tells me that my handwriting is atrocious. And it gets the satisfaction of being right. But who cares? While it's busy the words are just rushing out. And they're not henpecked or second-guessed before they've had time to cool. They exist in a flawed, but pure state. This kind of prose has a feral power that seems to be lacking from the things I type. Maybe that's not it, maybe it's just harder to get my head in that effortless writing space when I use a keyboard. But whatever the case is, writing longhand makes it easier for me to reach a writer's high.
+
+
 And if you're still not sold on the idea that writing longhand might help you write better, consider this. Until the 20th century, books were written by hand. I would argue that the best writing in history was composed by hand. The entire process is much easier now. But, would you like to argue that the increase in the power of our technology has led to a corresponding increase in the quality of our writing?
 
 Not me. I’m too busy scribing away.
