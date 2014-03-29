@@ -20,7 +20,7 @@ I'm also a veteran[^2] of the creative side of the advertising business. I've wo
 I currently live in Charlotte, North Carolina with my lovely wife, adorable child, hyperactive dog and more books than you.[^4]
 
 
- <a href="https://plus.google.com/102010383447562053979/?rel=author">Google</a>
+ <a href="https://plus.google.com/u/0/+PatrickMcLeanE/?rel=author">Google</a>
 
 	
 [^1]: A big ol’ Celtic mouthful of a word that means storyteller. 
