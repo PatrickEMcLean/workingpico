@@ -29,7 +29,7 @@ As a thank you for making it to the end of my book and allowing me to be a tiny 
 
 **iPhone (m4r)**
 
-* [Boltac](http://patrickemclean.com/media/boltacringtones/Boltac.m4r)
-* [Dimsbury](http://patrickemclean.com/media/boltacringtones/Dimsbury.m4r)
-* [Weeveston](http://patrickemclean.com/media/boltacringtones/Weeveston.m4r)
-* [Samga](http://patrickemclean.com/media/boltacringtones/Samga.m4r)
+* [Boltac](http://patrickemclean.com/media/boltacringtones/BoltaciPhone.m4r)
+* [Dimsbury](http://patrickemclean.com/media/boltacringtones/DimsburyiPhone.m4r)
+* [Weeveston](http://patrickemclean.com/media/boltacringtones/WeevestoniPhone.m4r)
+* [Samga](http://patrickemclean.com/media/boltacringtones/SamgaiPhone.m4r)
