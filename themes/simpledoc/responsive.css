@@ -1244,7 +1244,13 @@ section.styleguide h3 {
 
 .post blockquote {
   color: #444;
-  font-size: 1.3em; }
+  padding-top: 1em;
+  padding-bottom: 1em;
+  padding-left: 2em;
+  padding-right: 5em;
+  font-style: italic;
+  line-height: 3 em;
+}
 .post .note {
   background: #FCF6E3;
   border: 1px solid #EDE3C8 !important;
