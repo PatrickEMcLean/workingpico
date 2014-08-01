@@ -23,7 +23,7 @@ I promise:
 
 [^3]: Seriously, I've had this list since at least 2008. I've sent out maybe four emails. Mostly for new books. I'd like to get my act together and send out twice that many emails. But still, one a year? C'mon. Sign up already. 
 
-[^4]: Cross my heart. 
+[^4]: 'Cause how could they have more than this? 
 
 
 <!-- Begin MailChimp Signup Form -->
