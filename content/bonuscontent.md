@@ -6,7 +6,7 @@ Title: Bonus Content
 
 
 
-Okay, no more shenanigans, here's your digital loot. Thanks again for joining my on this crazy author journey. 
+Here's your digital loot. Thanks again for joining me on this crazy author journey. 
 
 * [How to Succeed in Evil](http://www.patrickemclean.com/evilextra)
 * [The Merchant Adventurer](http://www.patrickemclean.com/merchantextra)
