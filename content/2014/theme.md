@@ -38,7 +38,7 @@ But plot by itself is… well, plot by itself is hollow. The simplest way I can 
 2. Character
 3. Transport
 
-To get wwo out of the three is huge. All three, plus a little luck/timing is a blockbuster. Beyond that, lies the unknowable and immeasurable that make art. 
+To get two out of the three is huge. All three, plus a little luck/timing is a blockbuster. Beyond that, lies the unknowable and immeasurable that make art. 
 
 Take Game of Thrones. It has great characters. Personally, Arya is the one I care about the most, but there are so many, there is almost literally someone for everyone. 
 
