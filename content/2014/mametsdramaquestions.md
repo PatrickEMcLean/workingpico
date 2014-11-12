@@ -4,7 +4,6 @@
 title: David Mamet's Three Questions for Better Drama
 author: Patrick
 date: 2014-07-25
-
 */
 
 ![](http://patrickemclean.com/images/jawsdrama.jpg)
